@@ -1,0 +1,65 @@
+{
+	"homepgageTitle":"Stud-O-Mat",
+	"headline": "Stud-O-Mat",
+	"theme": "lak",
+	"doubleWeight" : true,
+	"dynamicEvaluation": true,
+	"showCommentsInEvaluation": true,
+	"homepage":"",
+	"startFadeTime": 200,
+	"counter": "",
+	"favicon":"favicon_lak.png",
+	"dimensions":
+	{
+		"questionsiteWidth" : "800px",
+		"questionsiteHeight": "620px",
+		"evaluationsiteWidth": "850px",
+		"evaluationsiteHeight": "100%",
+		"commentssiteWidth": "850px",
+		"commentssiteHeight": "100%"
+	},
+	"questions":
+	{
+		"qestionsInRow" : 18,
+		"wrapAfterIcon" : true,
+		"showAnswerIcons" : true,
+		"skipAndWeightInNewLine": true,
+		"answerIconsWidth" : "20px",
+		"answerIconsHeight" : "20px",
+		"fadeSpeed" : 100,
+		"skipText" : "Überspringen",
+		"doubleWeightText": "doppelt gewichten",
+		"directLinkText" : "Direkt zu Frage springen:",
+		"showKeyNumbers": false
+	},
+	"evaluation":
+	{
+		"partyRowHeight" : "45px",
+		"verticalDiagramHeight" : "115px",
+		"partyAnswerColWidth" : "55px",
+		"ownAnswerColWidth" : "70px",
+		"textOverOwnAnswerCol" : "Deine Antwort",
+		"showNamesInsteadOfLogos" : false,
+		"tableAnimationSpeed" : 100,
+		"diagramSpeed" : 200,
+		"answerIconsWidth" : "20px",
+		"answerIconsHeight" : "20px",
+		"showVerticalDiagram": true,
+		"showHorizontalDiagram": false,
+		"showEvaluationTable": true,
+		"horizontalDiagramWidth": "500px",
+		"horizontalBarHeight":"20px",
+		"overHorDiagram":"Deine Auswertung",
+		"overEvalTable": "",
+		"logoClickAction": "link"
+	},
+	"comments":
+	{
+		"qestionsInRow" : 18,
+		"directLinkText" : "Frage anzeigen:"
+	},
+	"links":
+	[
+
+	]
+}

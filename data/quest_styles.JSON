@@ -1,0 +1,12 @@
+{
+  "standard": {
+    "answers" : ["Dafür / Ja", "Neutral", "Dagegen / Nein"],
+    "icons": ["img/pro_icon.png" , "img/neutral_icon.png","img/contra_icon.png"],
+    "colors":["rgba(176,229,124,0.9)","rgba(255,240,170,0.9)","rgba(255,174,174,0.9)"],
+    "rating":[
+		[3,0,-1],
+		[0,3,0],
+		[-1,0,3]
+	]
+  }
+}

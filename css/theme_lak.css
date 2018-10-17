@@ -1,0 +1,324 @@
+
+/* Google Font Einbindung */
+@import url('//fonts.googleapis.com/css?family=Poppins%3A300%2Cregular%2C500%2C600%2C700%7CDroid+Serif%3Aregular%2Citalic%2C700%2C700italic%7CDosis%3A200%2C300%2Cregular%2C500%2C600%2C700%2C800%7CPlayfair+Display%3Aregular%2Citalic%2C700%2C700italic%2C900%2C900italic%7COswald%3A300%2Cregular%2C700%7CRoboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic%7CNunito%3A200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C900%2C900italic&amp;subset=devanagari%2Clatin-ext%2Clatin%2Ccyrillic%2Cvietnamese%2Cgreek%2Ccyrillic-ext%2Cgreek-ext&amp;ver=1.9.1');
+
+/* Hintergund der Seite */
+body {
+	font: normal 1em sans-serif;
+	color: white;
+	background-color: transparent;
+	background-attachment: fixed;
+	margin: 0;
+}
+
+
+/* Die Box, die alle weiteren Objekte enthält */
+#rosaVoteContainer {
+	/* Hauptcontainer */
+	background-color: rgba(48,49,51,0.2);
+	margin: 0 auto !important;
+	border-radius: 2px;
+	padding: 20px;
+	width: inherit !important;
+	max-width: 860px;
+	box-sizing: border-box;
+	height: 650px;
+}
+
+/* Die Box, die das Ende darstellt */
+.bottom_of_container {
+	left: 0px;
+	width: inherit;
+	padding: 10px;
+}
+
+
+/* Kopfzeile */
+#headline  {font-size:200%;text-align:center;margin: 20px;font-weight: bold;}
+
+/* Die Buttons in der Navigationsleiste */
+.naviButton {
+	border: 1px solid white;
+	text-align: center;
+	font: bold 13pt/110% Nunito;
+	background-color:rgba(48,49,51,0.1);
+	cursor:pointer;
+	border-radius: 2px;
+	padding: 0px;
+	padding-top: 16px;
+	padding-bottom: 16px;
+}
+
+
+.naviButton:hover {
+	border-color: white;
+	background-color: white;
+	color: #303133;
+}
+
+
+/*Antwort-Buttons*/
+.question_button {
+	border-color: transparent;
+	border-width: 2px;
+	border-style: solid;
+	cursor: pointer;
+	border-radius: 2px;
+	font: bold 13pt/110% Nunito;
+	padding: 16px;
+	color: #303133;
+	background-color: rgba(240,240,240,0.9);
+}
+
+
+.question_button:hover {
+	border-color: #303133;
+}
+
+
+/* Fragenübersicht*/
+
+
+/* Einzelne Zellen der Fragentabelle*/
+.questiontable table {
+	border-spacing: 5px;
+}
+#questTable > table > tbody > tr:nth-child(2) {
+	display: none;
+}
+#comments_questTable > table > tbody > tr:nth-child(2) {
+	display: none;
+}
+.questiontable td {
+	border: 1px solid white;
+	cursor: pointer;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.questiontable td:hover {
+	font-weight: bold;
+	border: 1px solid white;
+	background-color: white;
+	color: #303133;
+}
+
+
+/* aktuelle Frage wird markiert*/
+.selectedcell {border: 2px solid white !important}
+
+
+/* Detailtabelle in Evaluation*/
+.evalDetailTab:nth-child(2n){background-color: rgba(255,255,255,0.1)!important;}
+.evalDetailTab:nth-child(2n+1){background-color: rgba(255,255,255,0.5)!important;}
+.evalQuestRow:hover{background-color: #303133;}
+
+
+.diagramBar {background-color:aqua;}
+
+
+
+.evalQuestRow td:first-child {padding:5px;}
+
+/* "Direkt zu These springen" hat jetzt immer die Höhe für 2 Zeilen Text */
+.questiontable_title {
+	height: 35px;
+}
+
+/* Positionsübersicht: These immer mind 3 Zeilen hoch um hüpfen der weiter/zurück buttons zu verhindern */
+.commentsQuestionName {
+	height: 75px;
+}
+
+/* Fix MS-Browser: Ergebnis Parteilogo Reihe */
+.partyRow {
+	height: 48px;
+}
+
+/* Auswertung Balkendiagram Parteifarben */
+#diagramBarFDP {
+	background-color: #fdcd09;
+}
+
+#diagramBarCSU {
+	background-color: #111111;
+	color: white;
+}
+
+#diagramBarSPD {
+	background-color: #d61e1c;
+	color: white;
+}
+
+#diagramBarGRÜNE {
+	background-color: #77bb1a;
+	color: white;
+}
+
+#diagramBarLINKE {
+	background-color: #be2e74;
+	color: white;
+}
+
+#diagramBarFW {
+	background-color: #fe8b16;
+}
+
+/* unter Begründung Buttons ausblenden: "ein/ausblenden" "nach oben schieben" */
+.commentsSite .commentsAddon {
+	display: none;
+}
+
+/* keine ahnung :D */
+.content_well {
+	right:0;
+	left:0;
+	padding: 10px;
+	margin: 10px;
+}
+
+
+/* mobile theme Constantin */
+
+@media only screen and (max-width: 650px) {
+	#headline {
+		display: none;
+	}
+	.naviButton {
+		display: block;
+		float: left;
+		width: 47%;   /* Eigentlich 48%, aber Border ist 1px */
+		margin: 1%;
+	}
+	.questiontable td {
+		display: block;
+		float: left;
+		padding: 0px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		width: 8.5%;
+		margin: 1%;
+	}
+	#rosaVoteContainer {
+		padding: 0px;
+		height: 790px !important;
+	}
+	#question_title {
+		margin-left: 20px;
+		margin-top: 10px;
+	}
+	#question_text {
+		margin: 15px 20px 15px 20px;
+		font-size: 125%;
+	}
+	.questiontable_title {
+		margin-left: 10px;
+		font-size: 90%;
+	}
+	.selectedcell {
+		border-width: 1px !important;
+	}
+	.questiontable table {
+		border-spacing: 0px;
+		display: table;
+	}
+	
+	/* fix aval table for mobile */
+	.evalQuestRow td {
+		display: inline-block;
+		border-width: 0px;
+	}
+	
+	.evalQuestRow td.ownAnswerCol {
+		border-right: 1px black solid;
+	}
+	
+	#evaluationTable {
+		margin: 10px;
+		padding: 0;
+	}
+	
+	.partyAnswerCol {
+		width: 13%!important;
+		height: 29px;
+	}
+	
+	.ownAnswerCol {
+		width: 20%!important;
+		height: 24px;
+	}
+	
+	.evalDetailTab {
+		table-layout: auto;
+	}
+	
+	#lefttop_space {
+		display: none!important;
+	}
+	
+	.evalQuestRow img {
+		height: 25px;
+	}
+	
+	#question_title {
+		margin-right: 10px;
+	}
+	
+	
+
+	.evalQuestRow td:first-child {
+		min-width: 250px;
+		float: left;
+	}
+}
+
+@media only screen and (max-width: 400px) {
+	.commentsSite .questiontable_title {
+		display: none;
+	}
+	
+	#comments_well {
+		padding: 5px;
+		margin: 0;
+	}
+	
+	.bottom_of_container {
+		padding: 0;
+	}
+	
+	/* adjust Überspringen button */
+	#skipText {
+		display: block;
+	}
+	
+	.questiontable td {
+		width: 8.3%;
+		margin: 1%;
+	}
+	
+	/* fix height of jump to <question> line */
+	.questiontable_title {
+		height: 53px;
+	}
+	
+	#evaluationTable {
+		margin: 0;
+		margin-top: -25px;
+	}
+	
+	.evalQuestRow img {
+		height: 22px;
+	}
+	
+	#tableheader {
+		-ms-transform: scale(0.82, 0.82);
+		-webkit-transform: scale(0.82, 0.82);
+		transform: scale(0.82, 0.82);
+		transform-origin: left bottom;
+	}
+	
+	.paddingleftright.evaluationSite {
+		margin-top: -30px;
+	}
+}
+	
+	

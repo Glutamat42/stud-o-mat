@@ -1,0 +1,530 @@
+﻿[
+  {
+    "title": "Bayerisches Semesterticket",
+    "question": "Soll es ein staatlich subventioniertes bayernweites Semesterticket geben?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":0,"FDP":1,"FW":2,"GRÜNE":0,"LINKE":0,"SPD":0},
+    "comments":
+      {
+      "CSU":"Wir gehen einen Schritt weiter. Wir wollen, dass Bus und Bahn in Bayerns Großstädten deutlich günstiger werden. Unser Ziel: Ein Euro pro Tag für den ÖPNV - egal wie lang und wie oft am Tag man fährt. Damit wollen wir neue Wege bei der Luftreinhaltung gehen und eine deutliche Stärkung des ÖPNV vornehmen. Die Jahreskarten sollen spätestens 2030 in München, Nürnberg, Augsburg, Regensburg und Würzburg für den öffentlichen Personennahverkehr nur noch 365 Euro pro Jahr kosten. Vorbild ist dabei ebenfalls wie für das Semesterticket das sogenannte Wiener Modell; hier gibt es bereits seit dem Jahr 2012 ein 365-Euro-Ticket. Von der Neuerung sollen nicht nur die ca. 2,6 Millionen Einwohner in der Kernzone, sondern auch die Einpendler aus dem gesamten Ballungszentrum profitieren. Dazu laufen erste Verhandlungen. Im Übrigen gibt es in den Universitätsstädten unterschiedliche Formen von Semestertickets. Ziel aller Überlegungen muss ein angemessenes Kosten-Nutzen-Verhältnis für die Studierenden sein.",
+      "FDP":"Besonders im ländlichen Raum ist Mobilität unverzichtbar und daher ein flächendeckendes Angebot des öffentlichen Nahverkehrs auf jeden Fall zu befürworten. Insgesamt muss der ÖPNV in Bayern gestärkt werden. Ein bayernweites Semesterticket wäre zur Sicherstellung der Mobilität von Schülern, Auszubildenden und Studierenden denkbar. Die konkrete Ausgestaltung muss jedoch im Rahmen eines Gesamtkonzepts erarbeitet werden.",
+      "FW":"Grundsätzlich wäre ein subventioniertes bayernweites Semesterticket unserer Ansicht nach wünschenswert, ist zugleich einfach zu fordern und zu bejahen. Es gibt jedoch aktuell viele Baustellen im Hochschulsystem, in die es schnellstmöglich zu investieren gilt: Insbesondere die Schaffung von Wohnraum zur Behebung der Wohnungsnot von Studierenden, die Verbesserung der Lehrsituation durch eine bessere personelle, aber auch sachliche Ausstattung oder aber der Ausbau von Lern- und Aufenthaltsräumen an den Hochschulen. Zudem halten wir es für sinnvoller, gerade Studierende aus einkommensschwachen Familien gezielter zu unterstützen. Denn es gibt große Unterschiede in den studentischen Einnahmen und die Schere zwischen Studierenden mit sehr geringen bzw. sehr hohen finanziellen Mitteln geht immer weiter auseinander. Investitionen sollten daher gezielter so getätigt werden, dass sie insbesondere den Studierenden mit geringem Einkommen zugutekommen, die ohne Unterstützung kaum studierenden könnten, um soziale Ungleichheiten abzubauen. Nichtsdestotrotz sind wir ganz klar der Auffassung, dass für alle Studierenden an ihrem jeweiligen Hochschulstandort die Möglichkeit gegeben sein muss, ein Semesterticket zu günstigen Konditionen zu nutzen.",
+      "GRÜNE":"Gerade für Studierende, die über kein eigenes Fahrzeug verfügen oder die im Falle der immer teurer werdenden Ballungsgebiete auswärts wohnen müssen, wird der Weg zur Vorlesung nicht nur zu einer logistischen, sondern auch zu einer finanziellen Herausforderung. Deshalb streben wir an, die Nutzung des Öffentlichen Personennahverkehrs für alle Jugendlichen unter 18 sowie für alle Schüler*innen, Azubis und Studierende kostenfrei zu machen.",
+      "LINKE":"Das knappe Angebot an studentischem Wohnraum zwingt viele Studierende zum Pendeln. Auch für die häufig vorgeschriebenen Praktika sind oft lange Wege zurückzulegen. Angesichts der geringen Einkommen und hohen Reisekosten Studierender muss für eine erschwingliche Art der ÖPNV-Nutzung gesorgt werden.",
+      "SPD":"Die SPD-Landtagsfraktion hat eine entsprechende Initiative im Landtag eingebracht und die Staatsregierung aufgefordert ein Konzept für das bayernweite Semesterticket vorzulegen."
+      }
+  },
+  {
+    "title": "Staatliche Stipendien",
+    "question": "Sollen staatliche Stipendien primär dafür eingesetzt werden, sozial benachteiligten Menschen ein Studium zu ermöglichen und weniger der Begabtenförderung dienen?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":2,"FDP":2,"FW":0,"GRÜNE":0,"LINKE":0,"SPD":0},
+    "comments":
+      {
+      "CSU":"Nein. Wir sind der Meinung, dass sowohl die Studienförderung sozial benachteiligter Menschen als auch die Förderung besonders begabter junger Menschen zwei gleichwertige bildungs- und gesellschaftspolitische Ziele des Freistaats Bayern darstellen. Für die Förderung sozial schwacher Schüler/Familien gibt es bereits Fördermöglichkeiten",
+      "FDP":"Stipendien sollen beiden Zielen dienen. Sozial benachteiligten Menschen kann auch durch andere Maßnahmen geholfen werden. Konkret wollen wir die Einführung eines elternunabhängigen BAföG und das Konzept der nachgelagerten Studiengebühren fördern.",
+      "FW":"Aus Sicht der FREIEN WÄHLER sollte das Angebot an staatlichen Stipendienprogrammen, das nach sozialen Kriterien vergeben wird, deutlich ausgebaut werden. Auch wenn es durchaus sinnvoll ist, auch Stipendien nach Leistung und Begabung zu vergeben, ist das jetzige Angebot zu unausgewogen. Gerade der Staat steht in der Pflicht, allen jungen Bürgerinnen und Bürgern Chancen zu eröffnen und somit zu mehr Bildungsgerechtigkeit beizutragen. Hierbei spielt die Bereitstellung von Stipendien für sozial benachteiligte Menschen eine große Rolle.",
+      "GRÜNE":"Die Ausbildungsförderung soll alters- und herkunftsunabhängig gewährt werden, Freibeträge und Bedarfssätze sollen dynamisch an die Einkommensentwicklung angepasst werden. Dafür muss die Staatsregierung sich auf Bundesebene einsetzen. Das Deutschlandstipendium, das nur wenigen Studierenden zu Gute kommt, soll durch flexiblere Möglichkeiten der Breitenförderung vor Ort ersetzt werden oder in der Förderung durch das BAföG aufgehen.",
+      "LINKE":"Die soziale Spaltung in der Bildung ist ein wesentliches Merkmal und Problem des deutschen Bildungssystems. Öffentliche Mittel zur Studienförderung sollten primär zur Schließung dieser Schere eingesetzt werden, um Jugendlichen, denen das aus sozialen Gründen sonst verwehrt wäre, den Zugang zu tertiärer Bildung zu eröffnen.",
+      "SPD":"Der Zugang zur Hochschulbildung muss für alle jungen Menschen, unabhängig von ihrem Bildungshintergrund, geschaffen werden. Die in der aktuellen Untersuchung des Deutschen Zentrums für Hochschul- und Wissenschaftsforschung (DZHW) erneut nachgewiesenen ungleichen Bildungschancen - noch immer beginnen  nur  27 von 100 Kindern aus Nichtakademikerfamilien im Gegensatz zu 79 mit akademischen Hintergrund ein Studium - machen deutlich, dass hier dringend mehr Maßnahmen ergriffen werden müssen."
+      }
+  },
+  {
+    "title": "Maßnahmen zur Unterstützung von Menschen aus Nichtakademikerfamilien",
+    "question": "Sollen Maßnahmen, wie die Ausweitung von spezifischen Beratungsstellen, ergriffen werden, um Menschen aus Nichtakademikerfamilien dazu zu bewegen ein Studium zu beginnen und abzuschließen?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":1,"FDP":1,"FW":0,"GRÜNE":0,"LINKE":0,"SPD":0},
+    "comments":
+      {
+      "CSU":"Es gibt bereits vielfältige Informations- und Beratungsmöglichkeiten, die jedem offenstehen und alle jungen Menschen unbedingt nutzen sollten. Die Studienberatung an den Hochschulen oder an den Agenturen für Arbeit sowie die Studentenwerke bieten umfangreiche Beratung und Information an. Aktionen an den Hochschulen laden beispielsweise zu „Tagen der offenen Tür” ein, an denen jeder mit Lehrenden und Studierenden ins Gespräch kommen kann.",
+      "FDP":"Wir Freie Demokraten befürworten die Förderung der sozialen Durchlässigkeit. Dennoch darf dabei nicht die Wahlfreiheit der BürgerInnen beeinflusst werden. Personen, die ihr Potenzial in einer Ausbildung entfalten wollen, sollen nicht durch Beratung zu einer akademischen Ausbildung gedrängt werden. Wir Freie Demokraten stehen für eine Gleichbehandlung von Ausbildung und Studium und fordern die Gleichwertigkeit von Master- und Meisterabschluss.",
+      "FW":"Der Ausbau von Beratungsangeboten zur Studien- und Berufsorientierung für junge Menschen ist uns FREIEN WÄHLERN ein zentrales Anliegen. Dies schließt insbesondere auch die Beratung junger Menschen aus Nichtakademikerfamilien hinsichtlich der Aufnahme eines Studiums ein. Neben den spezifischen Beratungsstellen, möchten wir auch entsprechende Angebote frühzeitig an den Schulen integrieren, um möglichst alle Heranwachsenden erreichen zu können.",
+      "GRÜNE":"Keine detaillierte Position.",
+      "LINKE":"Siehe Antwort zu Frage 2. Aufnahme und erfolgreicher Abschluss eines Studiums hängen nicht nur von direkt monetären Faktoren ab, sondern Kinder aus Nicht-Akademikerfamilien sollten bei ihrem Studium auch beraten und begleitet werden.",
+      "SPD":"Der Zugang zur Hochschulbildung muss für alle jungen Menschen, unabhängig von ihrem Bildungshintergrund, geschaffen werden. Die in der aktuellen Untersuchung des Deutschen Zentrums für Hochschul- und Wissenschaftsforschung (DZHW) erneut nachgewiesenen ungleichen Bildungschancen - noch immer beginnen  nur  27 von 100 Kindern aus Nichtakademikerfamilien im Gegensatz zu 79 mit akademischen Hintergrund ein Studium - machen deutlich, dass hier dringend mehr Maßnahmen ergriffen werden müssen. Zudem weitere Maßnahmen wie die Schaffung von bezahlbarem Wohnraum für Studierende, der Einsatz auf Bundesebene für eine bedarfsgerechte Erhöhung des BAföG, die Stärkung des Studentenwerks mit all seinen Angeboten der Infrastruktur für Studierende"
+      }
+  },
+  {
+    "title": "Bayerische Studentenwerke",
+    "question": "Sollen die bayerischen Studentenwerke zusätzliche finanzielle Mittel vom Freistaat erhalten?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":1,"FDP":0,"FW":0,"GRÜNE":0,"LINKE":0,"SPD":0},
+    "comments":
+      {
+      "CSU":"Wir schätzen die Arbeit der Studentenwerke außerordentlich. Die Studentenwerke als gemeinnützige, soziale Dienstleistungsunternehmen des öffentlichen Bildungssektors haben den gesetzlichen Auftrag, die Studierenden wirtschaftlich, gesundheitlich, sozial und auch kulturell zu fördern. Dies erfüllen sie mit einem breiten Portfolio von Dienstleistungen, wie z. B. dem Betrieb von Mensen, dem Unterhalt von Wohnheimen und Kitas, Service- und Beratungsangeboten für ausländische Studierende etc. Gemeinsam mit den Hochschulen wollen wir uns für den Erhalt und die Verbesserung der guten Zusammenarbeit mit den Studentenwerken einsetzen. Dies tun wir bereits auf vielfältige Weise u. a. durch die Überlassung von Räumen oder durch die Förderung von Studentenwohnheimen. Hier haben wir in Bayern in den vergangenen Jahren so viel wie nie investiert. Zudem werden die Zuschüsse an die Studentenwerke regelmäßig angepasst.",
+      "FDP":"Wir Freie Demokraten wollen die Studienbedingungen im Freistaat verbessern und vor allem finanziell schlechter gestellte Studierende entlasten. Hierfür sind den Studierendenwerken mehr finanzielle Mittel zur Verfügung zu stellen. Besonderer Fokus ist dabei auf den Bau von Studierendenwohnheimen zu legen.",
+      "FW":"Eine Erhöhung der finanziellen Mittel für die Studentenwerke haben wir FREIE WÄHLER stets in den Haushaltsberatungen im Bayerischen Landtag, zuletzt für den zweiten Nachtragshaushaltsplan 2018, gefordert.",
+      "GRÜNE":"Wir Grüne haben uns in den vergangenen Jahren immer wieder für eine Aufstockung der Mittel für die Studierendenwerke stark gemacht. In den vergangenen Doppelhaushaltsverhandlungen hatten wir 8,95 Millionen Euro zusätzlich pro Jahr beantragt, die insbesondere zum Ausbau von Wohnheimsplätzen und der Schaffung sozialer Infrastruktur dienen sollten.",
+      "LINKE":"Die Studierendenwerke leisten eine wichtige Arbeit rund um das Hochschulstudium - dies reicht vom Betrieb von Wohnheimen über das gesamt Spektrum der sozialen Infrastruktur des Studiums. Gerade die Wohnraumproblematik erfordert Geldmittel in Höhen, die die StudWerke oft nicht aus eigener Tasche darstellen können. Deshalb brauchen sie zusätzliche Landesmittel.",
+      "SPD":"Die SPD-Landtagsfraktion fordert seit Jahren mehr Geld für die bayerischen Studentenwerke, die inzwischen am finanziellen Limit arbeiten. Im aktuellen Nachtragshaushalt sollten die Zuschüsse nach SPD-Forderung um acht Millionen auf rund 19 Millionen erhöht werden. Erläuterung zu den Finanzierungsmöglichkeiten (betrifft auch alle folgenden Finanzierungen):  Erforderliche, konsumtive Ausgaben für soziale Gerechtigkeit sind in Zeiten guter Konjunktur – wie derzeit bei uns – aus den laufenden Haushalten zu finanzieren. Es ist die zentrale Aufgabe, dass alle in der Gesellschaft nach ihrer Leistungsfähigkeit zur Finanzierung beitragen. Ein gerechtes Steuersystem und sein umfassender Vollzug – national aber auch international – sind Grundvoraussetzungen sozialer Gerechtigkeit. Dies betrifft gerade auch die Besteuerung internationaler Konzerne wie Apple und Starbucks und die weltweite Schließung von Steueroasen. Um die Einhaltung bestehender steuerlicher Regelungen zu prüfen und Steuerbetrug konsequent zu bekämpfen, ist zuallererst endlich eine ausreichende personelle Ausstattung der Finanzverwaltung in Bayern nötig. Daneben sind gesetzliche Regelungen zum Schließen von Steuerschlupflöchern, deutschlandweite Mindeststandards bei Betriebsprüfungen sowie eine Verstärkung der internationalen Zusammenarbeit notwendig. Wir wollen eine „bessere Erbschaftssteuer“; auch die Superreichen sind gerechter mit einzubeziehen. Die immer noch bestehende Überprivilegierung von Betriebsvermögen ist an die realen Notwendigkeiten anzupassen.\nGerade die Superreichen mit hohen Vermögen müssen sich an der Finanzierung wichtiger gesellschaftlicher Aufgaben stärker beteiligen, wie es auch im Grundgesetz und der Bayerischen Verfassung ausdrücklich vorgesehen ist! Für hohe Vermögen ist die Vermögenssteuer wieder einzuführen bzw. eine Vermögensabgabe anzustreben."
+      }
+  },
+  {
+    "title": "Studiengebühren für Nicht-EU-Ausländer",
+    "question": "Sollen Studiengebühren/-beiträge für Nicht-EU-AusländerInnen eingeführt werden?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":1,"FDP":1,"FW":2,"GRÜNE":2,"LINKE":2,"SPD":2},
+    "comments":
+      {
+      "CSU":"Die CSU hat sich mit dieser Thematik in Fraktion und Partei bereits intensiv beschäftigt. Es soll erst abgewartet werden, welche Erfahrungen das Nachbarland Baden-Württemberg mit diesen Studienbeiträgen macht.",
+      "FDP":"Die Erhebung von Studienbeiträgen von allen Studierenden (bis zu 500 Euro pro Semester) wollen wir den Hochschulen zur Qualitätsverbesserung der Lehre freistellen. Allerdings sollen diese erst nachgelagert erhoben werden, sobald die Absolventen über ein ausreichendes Einkommen verfügen.",
+      "FW":"Eine Einführung von Studiengebühren für Nicht-EU-Ausländer halten wir FREIE WÄHLER insbesondere auch angesichts der Zielsetzungen des Bologna-Prozesses, der Internationalisierung des Hochschulstudiums und der Verbesserung des wissenschaftlichen Austausches, für wenig zielführend.",
+      "GRÜNE":"Wir Grüne stellen uns entschieden gegen Bildungsgebühren wie Studiengebühren, die für einzelne Studierende oder Studierwillige eine große Zugangshürde sein können.",
+      "LINKE":"Die Einnahmen wären vernachlässigenswert, während gleichzeitig das Prinzip des Kaufens von Bildungsdienstleistungen wieder eingeführt würde. Studiengebühren für eine Randgruppe würden die Debatte um Gebühren für alle Studierenden wieder eröffnen.",
+      "SPD":"Die BayernSPD setzt sich für ein gebührenfreies Studium ein. Studiengebühren für Studierende aus Nicht-EU-Staaten wird es mit der Bayern SPD nicht geben."
+      }
+  },
+  {
+    "title": "Studiengebühren für Nicht-Regelstudienzeit",
+    "question": "Sollen Studiengebühren/-beiträge für Studierende eingeführt werden, deren Studium stark von einem Regelstudium abweicht, z.B. Zweitstudium, starkes Überschreiten der Regelstudienzeit, hohes Alter?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":2,"FDP":1,"FW":2,"GRÜNE":2,"LINKE":2,"SPD":2},
+    "comments":
+      {
+      "CSU":"Nein, weitere Studienbeiträge sind derzeit nicht geplant.",
+      "FDP":"Die Erhebung von Studienbeiträgen von allen Studierenden (bis zu 500 Euro pro Semester) wollen wir den Hochschulen zur Qualitätsverbesserung der Lehre freistellen. Allerdings sollen diese erst nachgelagert erhoben werden, sobald die Absolventen über ein ausreichendes Einkommen verfügen.",
+      "FW":"Die Einführung von Studiengebühren für die genannten Zielgruppen halten wir angesichts der Notwendigkeit des lebenslangen Lernens in unserer Gesellschaft für nicht zielführend. Auch nachgeholte Hochschulabschlüsse sollten unserer Ansicht nach gebührenfrei sein. Auch bei denjenigen, die ihre Regelstudienzeit überschreiten, liegen meist gute Gründe vor: So führen u. a. Familiengründung, Auslandsaufenthalte oder Praktika häufig zu Überschreitungen und viele Studierende sind zur Sicherung ihres Lebensunterhalts zudem auf Nebenjobs angewiesen.",
+      "GRÜNE":"Wir Grüne stellen uns entschieden gegen Bildungsgebühren wie Studiengebühren, die für einzelne Studierende oder Studierwillige eine große Zugangshürde sein können.",
+      "LINKE":"Als LINKE sprechen wir uns generell gegen Studiengebühren aus, zumal als Zweitstudium schon das Master-Studium gewertet werden kann, die offiziellen Regelstudienzeiten realitätsfern sind und häufig aus dringenden sozialen oder familiären Gründen überschritten werden und wir Beschäftigten, die die bestehenden Altersgrenzen überschritten haben, die Aufnahme eines Studiums ermöglichen wollen.",
+      "SPD":"Die BayernSPD setzt sich für ein gebührenfreies Studium ein. Studiengebühren für Studierende aus Nicht-EU-Staaten wird es mit der Bayern SPD nicht geben."
+      }
+  },
+  {
+    "title": "Gestaltung des BAföGs",
+    "question": "Sollen staatliche Förderungen, wie z.B. die BAföG-Förderung, so gestaltet sein, dass sie die Lebenshaltungskosten (z.B. Wohnen, Essen, ÖPNV) für ein Vollzeitstudium in jeder bayerischen Stadt abdecken können?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":0,"FDP":0,"FW":0,"GRÜNE":0,"LINKE":0,"SPD":0},
+    "comments":
+      {
+      "CSU":"Die unionsgeführte Bundesregierung hat das BAfög in den letzten Jahren immer wieder angehoben und verbessert, und wir wollen beim BAföG auch in der neuen Legislaturperiode weitere Verbesserungen entsprechend den Preis- und Einkommensentwicklungen vornehmen. Die nächste Reform soll das BAföG noch familienfreundlicher machen. Wir bringen mit jährlich 2,9 Mrd. Euro so viel Geld für das BAföG auf wie nie zuvor. 2015 hatte der Bund auch den Länderanteil am BAföG übernommen. Damit entlastete der Bund die Länder seither Jahr für Jahr um 1,17 Mrd. Euro. Zudem hat die Bundesregierung in der vergangenen Legislaturperiode mit der 25. BAföG-Novelle deutliche Verbesserungen bei der Förderung eingeführt. Damit unterstreichen wir ganz klar unsere Ziele und stärken die BAföG-Förderung weiterhin. Der neue BAföG-Bericht spiegelt zudem das gute Ausgangsniveau wider. Durch die gute wirtschaftliche Lage der Menschen in Deutschland sind noch weniger Schüler und Studierende als früher auf ihrem Bildungsweg auf die Sozialleistungen des BAföG angewiesen. Zugleich ist die Gesamtzahl aller Studierenden von 2012 bis 2016 um 15 Prozent auf neue Rekordstände gestiegen – eine erfreuliche Entwicklung.",
+      "FDP":"Junge Menschen sind eigenständige Persönlichkeiten, die sich selbst für ihren Ausbildungsweg entscheiden wollen. Die Wahl der Ausbildung stellt für sie die Weichen für die Zukunft. Studierende sollen ihren Talenten folgen und müssen ihre Wahl frei und ohne Geldsorgen treffen können. Deshalb darf die Finanzierung auch für niemanden an den Vorstellungen der Eltern oder deren Einkommen scheitern. Wichtig ist uns Freien Demokraten daher vor allem die Einführung eines elternunabhängigen BAföG.",
+      "FW":"Das BAföG ermöglicht auch denjenigen jungen Menschen, deren familiärer Hintergrund eine entsprechende finanzielle Stütze nicht zulässt, ein Studium oder eine schulische Ausbildung. So könnten laut einer Studie des Deutschen Studentenwerks vier Fünftel der Studenten, die BAföG beziehen, ohne dessen Unterstützung nicht studieren. Seit seiner Einführung hinkt das BAföG, trotz Reformen, den aktuellen gesellschaftlichen Lebenswirklichkeiten jedoch hinterher. Denn durch die Entwicklungen auf den Wohnungsmärkten, gerade mit Blick auf Ballungsräume sowie angesichts gestiegener Lebenshaltungskosten und einer immer heterogener werdenden Studierendenschaft, mit ganz unterschiedlichen Bedürfnissen, genügt das BAföG nicht mehr den sozialen Anforderungen. Notwendig wäre eine grundlegende Strukturreform des BAföGs, die eine Flexibilisierung und Dynamisierung der Fördersätze ermöglicht, um den Lebenswirklichkeiten der Studierenden und gesellschaftlichen Entwicklungen gerecht zu werden. Hierbei sollte nach Ansicht der FREIEN WÄHLER unbedingt auch den Unterschieden hinsichtlich Lebenshaltungskosten und Mietpreisen innerhalb Deutschlands Rechnung getragen werden, wie wir dies auch in einem entsprechenden Antrag gefordert haben (Drs. 17/18491). Gerade in Bayern, wo Lebenshaltungskosten teils enorm hoch sind, sollte auch ein landeseigener Zuschuss zum BAföG eingeführt werden, um insbesondere Vollzeitstudierende aus finanziell schwächer gestellten Familien vor prekären Lebenssituationen zu bewahren. Hierzu haben wir im Zuge des Nachtragshaushalts auch ein Förderprogramm ''Studieren in Bayern'' gefordert, um eine solche landeseigene Ergänzung zu realisieren (17/22540).",
+      "GRÜNE":"Keine detaillierte Position.",
+      "LINKE":"Der gegenwärtige Zustand, dass das BAföG die realen Lebenshaltungskosten nur ansatzweise abdeckt, ist unsozial und für Studierende wie Hochschulen kontraproduktiv, das zeigt schon der enorm hohe Anteil der Studierenden, die erwerbstätig sind und dadurch weniger Zeit für das Studium haben. Das BAföG soll vor allem die realen Meitpreise an den unterschiedlichen Hochschulstandorten berücksichtigen.",
+      "SPD":"Selbstverständlich. Der Zugang zur Hochschulbildung muss für alle jungen Menschen, unabhängig von ihrem Bildungshintergrund, geschaffen werden. Die in der aktuellen Untersuchung des Deutschen Zentrums für Hochschul- und Wissenschaftsforschung (DZHW) erneut nachgewiesenen ungleichen Bildungschancen - noch immer beginnen  nur  27 von 100 Kindern aus Nichtakademikerfamilien im Gegensatz zu 79 mit akademischen Hintergrund ein Studium - machen deutlich, dass hier dringend mehr Maßnahmen ergriffen werden müssen."
+      }
+  },
+  {
+    "title": "Verfasste Studierendenschaft",
+    "question": "Soll die verfasste Studierendenschaft, die in allen anderen Bundesländern bereits etabliert ist in Bayern wiedereingeführt werden?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":2,"FDP":2,"FW":0,"GRÜNE":0,"LINKE":0,"SPD":0},
+    "comments":
+      {
+      "CSU":"Nein. Es ist weiterhin nicht geplant, in Bayern die verfasste Studierendenschaft als Körperschaft des öffentlichen Rechts und damit die Erhebung von Zwangsgebühren einzuführen. Wir werden jedoch in der kommenden Wahlperiode prüfen, ob durch eine niedrigschwellige Änderung des Hochschulgesetzes die Arbeit der Studierendenvertretungen in Bayern erleichtert bzw. gestärkt werden kann.",
+      "FDP":"Wir sehen darin nur eine Ausweitung der Pflichten. Auch die Wahlbeteiligung steigt erfahrungsgemäß nicht durch die Verfasste Studierendenschaft.",
+      "FW":"Die FREIE WÄHLER Landtagsfraktion spricht sich deutlich für die Möglichkeit einer verfassten Studierendenschaft aus. Es ist sehr bedauerlich, dass die Staatsregierung und insbesondere die CSU-Faktion diese Forderung, die längst überfällig ist, seit Jahren mit fadenscheinigen Ausreden boykottiert. Als einziges Bundesland hinkt Bayern dem Zeitgeist hier deutlich hinterher. Eine verfasste Studierendenschaft würde einige Vorteile für die StudentInnen mit sich bringen, wie z.B. eine gesteigerte Selbstständigkeit und Handlungsfreiheit durch Finanzhoheit auf der einen und Satzungshoheit auf der anderen Seite. Durch die Schaffung der rechtlichen Rahmenbedingungen für eine verfasste Studierendenschaft können nicht nur die Studierenden in ihrem Recht auf hochschulpolitische Mitbestimmung, sondern auch die bayerischen Hochschulen als demokratische Institutionen nachhaltig gestärkt werden. Aus diesen Gründen möchten wir FREIE WÄHLER uns auch in der kommenden Legislaturperiode für eine verfasste Studierendenschaft in Bayern einsetzen.",
+      "GRÜNE":"Wir fordern die Wiedereinführung einer selbstverwalteten Studierendenschaft mit Satzungs- und Beitragsautonomie, Finanzhoheit, Solidarmitgliedschaft und politischem Mandat. In unserem Gesetzentwurf zur Änderung des Bayerischen Hochschulgesetzes –Studentische Selbstverwaltung ermöglichen (Landtags-Drs. 17/16463) haben wir die Konzeption näher ausgeführt.",
+      "LINKE":"Ganz ausdrücklich und mit allgemeinpolitischem Mandat. Hochschulen müssen Orte gelebter Demokratie sein.",
+      "SPD":"Nur mit einer verfassten Studierendenschaft können die Studentinnen und Studenten ihre Rechte und Pflichten an den Hochschulen wahrnehmen. Erst wenn die Studierenden selber darüber entscheiden könnten, wie sie sich organisieren und wie sie ihre Mittel ausgeben, kann von einer wirklichen Vertretung gesprochen werden und nur mit einer verfassten Studierendenschaft stehen auch genügend Mittel zur Verfügung, um das studentische Leben wirklich mitgestalten zu können."
+      }
+  },
+  {
+    "title": "Studentischer Vizepräsident",
+    "question": "Soll eine studentische Mitsprache in der Hochschulleitung in Form eines studentischen Vizepräsidenten / einer studentischen Vizepräsidentin stattfinden können?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":1,"FDP":1,"FW":0,"GRÜNE":0,"LINKE":1,"SPD":0},
+    "comments":
+      {
+      "CSU":"Ein solches Amt würde einen Studierenden mehrere Jahre binden oder es wäre ein personeller Wechsel nötig, der den Abläufen in einer Hochschulleitung nicht zuträglich wäre. Zudem gibt es studentische Mitsprache schon in den wichtigen Kollegialorganen. Die bayerischen Hochschulen können aber im Rahmen ihrer Hochschulautonomie in ihrer Grundordnung studentische Beteiligung festlegen, wie sie das jeweils vor Ort für nötig und zielführend erachten. Es ist sicherlich so, dass nicht für alle Hochschulen die gleichen Lösungen geeignet sind.",
+      "FDP":"Keine detaillierte Position.",
+      "FW":"Nimmt man die Hochschulen nicht nur als Lern-, sondern auch als demokratischen Lebensraum, in dem junge Menschen ihre Persönlichkeit entfalten können, ernst, so muss ihnen hier auch die Möglichkeit geboten werden, sich als aktives Mitglied in die Gemeinschaft einzubringen und an Entscheidungen mitzuwirken. Als junge Erwachsene stehen sie nicht nur im Zentrum der Hochschullehre, sondern tragen mehr noch als in der Schule Verantwortung für den eigenen Bildungsweg. Gerade aus diesem Grund sollte ihnen aber auch die Möglichkeit geboten werden, diesen Weg selbst mitzugestalten. Es ist für uns daher auch nicht nachvollziehbar, warum Mitglieder der Hochschulleitung in Bayern derzeit auf den Kreis der Professorinnen und Professoren, der wissenschaftlichen sowie der künstlerischen Mitarbeiterinnen und Mitarbeiter beschränkt sind. Der direkte Einbezug der Studierenden in die Hochschulleitung und die damit verbundene Möglichkeit, die studentische Perspektive direkt in die Arbeit an den Hochschulen einfließen zu lassen, kann gerade im Kontext der Verbesserung der Lehre sowie der Hochschulentwicklung äußerst positive Auswirkungen haben.",
+      "GRÜNE":"Keine detaillierte Position.",
+      "LINKE":"In jedem Fall brauchen wir eine innere Demokratisierung der Hochschulen, bei der alle Statusgruppen gleichberechtigt an den Entscheidungen beteiligt werden.",
+      "SPD":"Die BayernSPD will Studierende in die Hochschulleitung aufnehmen. Ein entsprechender Gesetzentwurf der SPD-Landtagsfraktion zur Änderung des Hochschulgesetzes wurde allerdings von der CSU abgelehnt. Wir wollen, dass Studierende in die Hochschulleitung aufgenommen werden und damit die Möglichkeit bekommen, gemeinsam mit dem wissenschaftlichen Personal an einem nachhaltigen Konzept ihrer Hochschule zu arbeiten."
+      }
+  },
+  {
+    "title": "Festschreibung der Landesstudierendenvertretung",
+    "question": "Soll der Zusammenschluss der bayerischen Studierendenvertretungen auf Landesebene in der kommenden Legislaturperiode gesetzlich festgeschrieben werden?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":1,"FDP":2,"FW":0,"GRÜNE":0,"LINKE":0,"SPD":0},
+    "comments":
+      {
+      "CSU":"Den Universitäten und HAWs in Bayern räumt das Bayerische Hochschulgesetz einen großen Spielraum ein, wie sie die Mitbestimmung an ihrer Hochschule ausgestalten wollen. So wird an einigen Universitäten direktdemokratische Mitbestimmung bereits praktiziert. Damit haben wir zwischen Studierenden, Ministerium und Hochschulen eine Regelung ge-funden, die es ermöglicht, die Studierenden stärker in Entscheidungsprozesse einzubinden und sie in den wichtigen Hochschulgremien aktiv einzubinden. Man erhofft sich davon auch ein tieferes Verständnis für die universitären Aufgaben und ein größeres Interesse an der Partizipation an den Hochschulwahlen.",
+      "FDP":"Wir Freie Demokraten sind der Meinung: Gerade bei Studierenden geht die Freiwilligkeit vor. Wir stehen dem Zusammenschluss auf freiwilliger Basis aber positiv gegenüber.",
+      "FW":"Die Landes-ASten-Konferenz Bayern ist ein bewährtes und erfolgreiches Modell. Sie dient nicht nur zum Erfahrungsaustausch zwischen den einzelnen Studierendenvertretungen Bayerns, sondern gibt den Studierenden in Bayern auch eine starke Stimme gegenüber Verantwortungsträgern aus Hochschule und Politik. Wir FREIE WÄHLER betrachten die Landes-ASten-Konferenz als legitime Interessenvertretung der Studierenden gegenüber der bayerischen Politik und begrüßen eine Beteiligung der LandesASten-Konferenz bei der Ausgestaltung der Hochschulpolitik in Bayern. Aus diesem Grund stehen wir einer gesetzlichen Verankerung des Zusammenschlusses der bayerischen Studierendenvertretungen und ebenso seiner generellen Beteiligung an hochschulpolitischen Gesetzesvorhaben in der kommenden Legislaturperiode sehr positiv gegenüber.",
+      "GRÜNE":"In unserem Gesetzentwurf zur Änderung des Bayerischen Hochschulgesetzes –Studentische Selbstverwaltung ermöglichen (Landtags-Drs. 17/16463) heißt es dazu: „Die Studierendenschaften der Hochschulen des Freistaates Bayern bilden zur Wahrnehmung ihrer gemeinsamen Interessen eine landesweite Vertretung der Studierendenschaften.“",
+      "LINKE":"Keine detaillierte Position.",
+      "SPD":"Wir werden eine bayernweite von allen Studierenden gewählte Vertretung einführen, die Rede- und Antragsrecht in den für die Hochschulen zuständigen Landtagsausschüssen erhält."
+      }
+  },
+  {
+    "title": "Studentische Mitsprache bei Berufungsverfahren",
+    "question": "Ist die studentische Mitsprache bei Berufungsverfahren zur Berufung von ProfessorInnen ausreichend?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":1,"FDP":2,"FW":2,"GRÜNE":2,"LINKE":2,"SPD":2},
+    "comments":
+      {
+      "CSU":"Den Universitäten und HAWs in Bayern räumt das Bayerische Hochschulgesetz einen großen Spielraum ein, wie sie die Mitbestimmung an ihrer Hochschule ausgestalten wollen. So wird an einigen Universitäten direktdemokratische Mitbestimmung bereits praktiziert. Damit haben wir zwischen Studierenden, Ministerium und Hochschulen eine Regelung ge-funden, die es ermöglicht, die Studierenden stärker in Entscheidungsprozesse einzubinden und sie in den wichtigen Hochschulgremien aktiv einzubinden. Man erhofft sich davon auch ein tieferes Verständnis für die universitären Aufgaben und ein größeres Interesse an der Partizipation an den Hochschulwahlen.",
+      "FDP":"Eine generelle Aussage lässt sich hier zwar aufgrund der Unterschiede zwischen den Hochschulen und Fakultäten nicht treffen, wir Freie Demokraten befürworten diesbezüglich aber die Mitsprache der Studierenden und fördern daher die Verbesserung studentischer Mitsprache im Falle mangelnder Berücksichtigung.",
+      "FW":"Die Studierenden stehen im Zentrum von Studium und Lehre an den bayerischen Hochschulen. Sie sind von gut sowie schlecht konzipierten Lehr- und Lernsituationen unmittelbar betroffen. Neben der Forschungstätigkeit von Professoren spielt daher auch deren Fähigkeit zur Gestaltung von fachlich fundierten und motivierenden Lehrveranstaltungen eine zentrale Rolle. Sie trägt nicht nur dazu bei, Interesse für die einzelnen Studien- und Fachgebiete zu wecken, sondern ist auch wesentlich für den Studienerfolg von Studierenden. Gerade aus diesem Grund sollte die studentische Mitsprache bei Berufungsverfahren aus Sicht der FREIEN WÄHLER deutlich gestärkt werden.",
+      "GRÜNE":"Wir fordern eine echte und paritätische Mitbestimmung für alle Statusgruppen in der akademischen Selbstverwaltung wie in Nordrhein-Westfalen umgesetzt oder in Thüringen geplant.",
+      "LINKE":"Gegenwärtig haben die Vertretungen der Studierendenschaft keine ausreichenden Möglichkeiten, effektiv auf die Berufungen Einfluss zu nehmen.",
+      "SPD":"Keine detaillierte Position."
+      }
+  },
+  {
+    "title": "Studentische Mitsprache in Prüfungskommissionen / Prüfungsausschüssen",
+    "question": "Soll die studentische Mitsprache durch ein vollwertiges studentisches Mitglied in Prüfungskommissionen bzw. Prüfungsausschüsse sichergestellt werden?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":1,"FDP":1,"FW":2,"GRÜNE":0,"LINKE":0,"SPD":0},
+    "comments":
+      {
+      "CSU":"Den Universitäten und HAWs in Bayern räumt das Bayerische Hochschulgesetz einen großen Spielraum ein, wie sie die Mitbestimmung an ihrer Hochschule ausgestalten wollen. So wird an einigen Universitäten direktdemokratische Mitbestimmung bereits praktiziert. Damit haben wir zwischen Studierenden, Ministerium und Hochschulen eine Regelung ge-funden, die es ermöglicht, die Studierenden stärker in Entscheidungsprozesse einzubinden und sie in den wichtigen Hochschulgremien aktiv einzubinden. Man erhofft sich davon auch ein tieferes Verständnis für die universitären Aufgaben und ein größeres Interesse an der Partizipation an den Hochschulwahlen.",
+      "FDP":"Wir Freie Demokraten stehen diesem Vorschlag offen gegenüber. Dabei muss allerdings geprüft werden, inwiefern die Übernahme dieses Amts Studierende in ihrer Ausübung des Studiums beeinflusst.",
+      "FW":"Die studentische Mitsprache sollte auch in Prüfungskommissionen bzw. Prüfungsausschüssen sichergestellt werden. Wir halten hier jedoch eine differenzierte Beteiligung für zielführend. Die Aufgaben von Prüfungskommissionen bzw. Prüfungsausschüssen beziehen sich unter anderem auf die Einhaltung der Prüfungsordnungen, die Entwicklung der Prüfungen und Studienzeiten sowie die Weiterentwicklung von Prüfungsordnungen. Hierbei halten wir die Beteiligung von Studierendenvertretern für sinnvoll und wichtig. Was beispielsweise konkrete Prüfungsfragen, so z.B. Termine und Prüfer sowie Prüfungsbedingungen und insbesondere Widersprüche gegen in Prüfungsverfahren getroffene Entscheidungen angeht, sehen wir dagegen eine vollwertige Beteiligung, auch vor dem Hintergrund von geforderter Vertraulichkeit oder möglichen Interessenskonflikten, als problematisch an.",
+      "GRÜNE":"Keine detaillierte Position.",
+      "LINKE":"Keine detaillierte Position.",
+      "SPD":"Keine detaillierte Position."
+      }
+  },
+  {
+    "title": "Allgemeinpolitisches Mandat",
+    "question": "Ist es von Ihnen gewünscht, dass Studierendenvertretungen sich allgemeinpolitisch äußern?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":0,"FDP":1,"FW":0,"GRÜNE":0,"LINKE":0,"SPD":0},
+    "comments":
+      {
+      "CSU":"Studierende sollen sich allgemeinpolitisch äußern und sich neben den fachlichen Interessen auch für alle gesellschaftlichen Entwicklungen interessieren. Allerdings sollte sich eine hochschulpolitische Interessenvertretung auf hochschulrelevante Fragestellungen konzentrieren. Wichtig ist, dass hochschulpolitisches Engagement möglich ist und dass dafür entsprechende Räume für Diskussionsveranstaltungen sowie Flächen für Plakate und Veranstaltungshinweise vorhanden sind.",
+      "FDP":"Die Studierendenvertretung soll sich vor allem in jenen Bereichen engagieren, wo direkte Verbesserungen für die Menschen an bayerischen Hochschulen erreicht werden können.",
+      "FW":"Damit die bayerischen Studierendenvertretungen neben studienbezogenen Belangen beispielsweise auch soziale, wirtschaftliche oder kulturelle Belange ihrer Mitglieder wahrnehmen können, ist es unserer Ansicht nach erforderlich, dass ihnen auch das Recht gegeben wird, sich nicht nur hochschulpolitisch, sondern auch allgemeinpolitisch zu äußern. Aus diesem Grund sehen wir FREIE WÄHLER es durchaus positiv, wenn den Studierendenvertretungen die Diskussion und Veröffentlichung von Äußerungen zu allgemeinen gesellschaftspolitischen Fragen ermöglicht wird. Wichtig ist uns dabei, dass diese von Verlautbarungen der Studierendenschaft und ihrer Organe weiterhin deutlich abgegrenzt bleiben.",
+      "GRÜNE":"Wir lehnen den Begriff „allgemeinpolitisch“ als konservativen Kampfbegriff allerdings ab. Wir setzen uns für Studierendenschaften mit politischem Mandat ein, die die Interessen der Studierenden effektiv nach außen vertreten können – natürlich unter Einhaltung der gebotenen verfassungsgemäßen weltanschaulichen, religiösen und und parteipolitischen Neutralität.",
+      "LINKE":"Wir möchten, dass sie sich allgemeinpolitisch äußern dürfen. Die Beschränkung auf vermeintlich rein hochschulpolitische bzw. hochschulinterneThemen führt zu Willkür und unsinniger Entpolitisierung. Studierende sind volljährige Mitglieder eines demokratischen Staatswesens, während das Hochschulleben von zahlreichen Entscheidungen betroffen ist, die nicht unmittelbar in den Bereich der Bildungspolitik fallen.",
+      "SPD":"Die BayernSPD hat sich immer dafür eingesetzt, dass auch in Bayern die verfasste Studierendenschaft mit umfassender Satzungs- und Finanzhoheit und politischem Mandat in Bayern wieder eingeführt wird. Eine mündige Studierendenschaft muss auch zu solchen Fragen Stellung beziehen können, die sich mit der gesellschaftlichen Aufgabenstellung der Hochschulen sowie mit der Anwendung der wissenschaftlichen Erkenntnisse und der Abschätzung ihrer Folgen für die Gesellschaft und die Natur beschäftigen. In Bayern ist die Entscheidung für eine eigenständige studentische Vertretung an Hochschulen längst überfällig. Entscheidende Aufgaben von Hochschulen und damit von Studierenden, die Teilhabe an politischen und gesellschaftlichen Prozessen und die kritische Auseinandersetzung mit wissenschaftlichen Entwicklungen werden den Studierenden seit Jahrzehnten nicht zuerkannt.\nDie Studierenden brauchen als größte Gruppe der Hochschule eine Institution, in der sich ein studentischer Willens- und Meinungsprozess bilden kann. Sie sind mündige Bürgerinnen und Bürger."
+      }
+  },
+  {
+    "title": "Finanzielle Gleichstellung",
+    "question": "Sollen Hochschulen für angewandte Wissenschaften und Universitäten bei der Forschung finanziell gleichgestellt werden?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":2,"FDP":2,"FW":2,"GRÜNE":0,"LINKE":0,"SPD":1},
+    "comments":
+      {
+      "CSU":"Eine Gleichstellung wird angesichts des riesigen Forschungsetats unserer Universitäten sicherlich nicht möglich sein und das ist in Anbetracht der verschiedenen Funktionen von Universitäten und HAWs in unserem Hochschulsystem (vgl. Innovationsbündnis S. 17 Leitlinien der Hochschulpolitik) auch nicht nötig. Die CSU setzt sich seit Jahren für eine deutliche und dauerhafte Stärkung der Grundfinanzierung unserer HAWs einerseits und der angewandten Forschung an den HAWs andererseits ein. Auf diesem Weg haben wir in den vergangenen Jahren auch schon spürbare Erfolge für die HAWs erzielt, z.B. die Schaffung von fast 50 W2-Stellen für Forschungsprofessuren. Zudem werden auch an HAWs, „Digitalisierungsprofessuren“ und Professuren für Künstliche Intelligenz geschaffen.",
+      "FDP":"Eine generelle Gleichstellung lehnen wir ab. Eine solche Entscheidung sollte von Fall zu Fall individuell gefällt werden.",
+      "FW":"Auch wenn die Unterschiede zwischen Universitäten und Hochschulen für angewandte Wissenschaften heute nicht mehr so deutlich sind, zeigt sich doch in der Tendenz immer noch, dass die Hochschulen für angewandte Wissenschaften eine stärkere Praxisorientierung, die Universitäten dagegen eine Theorie- und Forschungsorientierung verfolgen. Insbesondere kostenintensive Forschung, beispielsweise in der Medizin, wird immer noch überwiegend an den Universitäten geleistet. Dies sollte bei der Finanzierung der Forschung auch weiterhin berücksichtigt werden.",
+      "GRÜNE":"HAWen brauchen eigenständige Forschungsmittel um ihrem gesetzlichen Forschungsauftrag nachzukommen und brauchen insbesondere auch Mittel zur Bereitstellung von Masterstudienplätzen.",
+      "LINKE":"HAW ziehen mehr und mehr Schulabsolvent*innen an und erfüllen eine wachsende Rolle in der Hochschullandschaft. Ihre Benachteiligung ist im Hinblick auf ihre Bedeutung nicht zu rechtfertigen.",
+      "SPD":"Die BayernSPD steht für eine Aufwertung der Hochschulen für angewandte Wissenschaften. Sie sind ein wichtiger Bestandteil unserer Hochschullandschaft. Wir brauchen attraktive und gut ausgestattete Hochschulen, damit wir mehr Menschen ein Studium ermöglichen können. \nIm bayerischen Hochschulsystem leisten Hochschulen für angewandte Wissenschaften einen unverzichtbaren Beitrag für die Qualifizierung von Fachkräften, für anwendungsorientierte Forschung und Entwicklung, den Wissenstransfer und damit für die regionale Innovationskraft. Das Funktions- und Anforderungsspektrum der praxisorientierten Hochschulen hat sich erheblich erweitert. Anwendungsbezogene Forschung und Entwicklung gehören heute zum festen Aufgabenspektrum. Wir setzen uns dafür ein, dass die Forschungsförderung des Bundes und des Landes verstärkt und das wissenschaftliche Personal ausgebaut wird. Fächern mit ausgeprägten Schwerpunkten in angewandter Forschung muss das Promotionsrecht eingeräumt werden. Vor allem in Fachbereichen, die von Universitäten nicht abgedeckt sind, ist es für die Hochschulen von großer Bedeutung, ihren eigenen wissenschaftlichen Nachwuchs auszubilden."
+      }
+  },
+  {
+    "title": "Promotionsrecht",
+    "question": "Sollen Hochschulen für angewandte Wissenschaften das eigenständige Promotionsrecht erhalten und damit in dieser Hinsicht Universitäten gleichgestellt werden?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":2,"FDP":2,"FW":1,"GRÜNE":0,"LINKE":0,"SPD":0},
+    "comments":
+      {
+      "CSU":"Mit dem Modell der Verbundpromotion im Rahmen des Bayerischen Wissenschaftsforums (BAYWISS) haben wir ein bundesweit einzigartiges Instrument geschaffen, damit herausragende Absolventen der HAWs promovieren können. BAYWISS wurde von den bayerischen Universitäten und Hochschulen für angewandte Wissenschaften bzw. Technischen Hochschulen gemeinsam entwickelt. Gerade erst konnte die erste Promotionsurkunde für eine Dissertation überreicht werden, die in einem Verbundkolleg abgeschlossen wurde. In BAYWISS gibt es bereits sechs Verbundkollegs zu unterschiedlichen Themenschwerpunkten. Zwischenzeitlich arbeiten rund 80 Doktorandinnen und Doktoranden an ihrer Promotion. Als großen Vorteil einer kooperativen Promotion bzw. Verbundpromotion sehen wir die „doppelte“ Betreuung. Dies generiert zusätzliches Expertenwissen und regt den Austausch zwischen den beteiligten Hochschulen und den Professoren an.",
+      "FDP":"Grundsätzlich befürworten wir das eigenständige Promotionsrecht für Hochschulen für angewandte Wissenschaften. Dabei muss allerdings die Qualität sichergestellt sein. Umgekehrt ist ebenfalls zu prüfen, ob jede Universität ohne Qualitätsnachweis ihr Promotionsrecht behalten darf.",
+      "FW":"Das Promotionsrecht für Hochschulen für angewandte Wissenschaften kann nicht nur die Forschung in denjenigen Disziplinen befördern, die an den Universitäten nicht oder nur am Rande vertreten sind, sondern auch die Qualität der anwendungsorientierten Forschung weiter stärken. Unserer Ansicht nach sollte dies jedoch zunächst noch im Rahmen der vorhandenen Modelle erprobt und weiterentwickelt werden. So sind Strukturen, die den HAW-Absolventen eine Promotion ermöglichen, längst geschaffen und kooperative bzw. Verbund-Promotionsverfahren stellen bereits heute sicher, dass den HAW-Absolventen der Zugang zur Promotion offen steht. Diese Strukturen sollten unserer Ansicht nach gestärkt und ausgebaut werden.",
+      "GRÜNE":"Keine detaillierte Position.",
+      "LINKE":"Dies ist in vielen Fächern schon wichtig, damit sie ihr eigenes künftiges Lehrpersonal für eine Professur ausreichend qualifizieren können.",
+      "SPD":"Die SPD-Landtagsfraktion hat eine Initiative für ein eigenständiges Promotionsrecht der Hochschulen für angewandte Wissenschaften eingebracht, das von der CSU-Mehrheit im Landtag abgelehnt wurde."
+      }
+  },
+  {
+    "title": "Drittmittelfinanzierung",
+    "question": "Sehen Sie es als Problem an, dass Hochschulen einen zunehmenden Teil ihres Haushalts aus Drittmitteln finanzieren?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":2,"FDP":2,"FW":0,"GRÜNE":0,"LINKE":0,"SPD":0},
+    "comments":
+      {
+      "CSU":"Die Zahl der Drittmittel ist in den vergangenen Jahren erfreulicher Weise gestiegen. Aber auch die Grundfinanzierung, wie erst jüngst im Rahmen einer Anhörung im Bayerischen Landtag deutlich wurde. In Bayern lag die Drittmittelquote bei 16 Prozent. Zwei Drittel der Drittmittelgeber sind öffentliche Geldgeber, vor allem die DFG und das BMBF. Nur 24 Prozent der Drittmittel stammen aus der gewerblichen Wirtschaft, 7,3 Prozent stammen von Stiftungen. Es gibt in Bayern ein umfassendes und bewährtes Regelwerk, um sicherzustellen, dass die Drittmittelgeber keinen Einfluss auf die Forschungen der Drittmittelnehmer nehmen.",
+      "FDP":"Wir Freie Demokraten sehen Forschungsfinanzierung in Form von Auftragsforschung oder durch die Unterstützung mit Drittmitteln als ein wichtiges Element zur Förderung der wissenschaftlichen Vielfalt an Hochschulen. Wichtig ist aber, dass Externe keinen unmittelbaren Einfluss auf die Ausrichtung von Inhalten der Forschung oder der Lehre nehmen können. Insbesondere sollen sie keinen Einfluss auf die Berufungen an Hochschulen erhalten. Das Finanzierungsmodell von Stiftungslehrstühlen sehen wir grundsätzlich positiv.",
+      "FW":"Wir sehen es durchaus kritisch, dass Hochschulen einen zunehmenden Teil ihres Haushalts durch Drittmittel finanzieren. Gerade vor dem Hintergrund einer zunehmenden Bedeutung von Drittmitteln an den Hochschulen ist es aus Sicht der FREIEN WÄHLER umso wichtiger, auf Transparenz, Neutralität und Unabhängigkeit in der Forschung zu achten. Gleichzeitig ist das Einwerben von Drittmitteln mit einem hohen Aufwand verbunden, denn nur etwa zehn Prozent der Anträge werden dann auch tatsächlich bewilligt. Hier werden Ressourcen gebunden, die an anderer Stelle, beispielsweise zur Verbesserung der Studienbedingungen sowie zu Forschungszwecken, deutlich besser genutzt werden könnten. Notwendig ist daher, eine solide Grundfinanzierung, welche die Eigenständigkeit der Hochschulen gewährleistet und eine Grundlagenforschung ermöglicht, die möglichst frei von wirtschaftlichen Nutzungserwägungen ist.",
+      "GRÜNE":"Vor einer möglichen Drittmitteleinwerbung muss eine solide Grundfinanzierung der Hochschulen stehen. Ansonsten stehen Drittmittel für eine prekäre Wissenschaftsfinanzierung und einen Rückzug des Staates aus der Hochschulfinanzierung. Deshalb haben wir am Ende dieser Legislatur auch gemeinsam eine Landtagsanhörung zu der Thematik durchgesetzt. \nWichtig ist uns beim Thema Drittmitteleinwerbung zusätzlich Transparenz. So kann eine Unabhängigkeit von Forschung und Lehre garantiert werden. Wir fordern daher ein staatliches Transparenzregister nach dem Vorfeld bspw. Bremens.",
+      "LINKE":"Die Abhängigkeit von Drittmitteln schränkt die Hochschulen in ihrer Lehr- und Forschungsfreiheit ein und führt zu einer ausufernden Belastung durch die permanente Einwerbung solcher Mittel. Drittmittel werden zu Konditionen vergeben, die Forschungsdesign und sogar die innere Struktur der Hochschulen direkt beeinflussen. Da die Drittmittel ganz überwiegend aus öffentlichen Geldern bestehen, wäre es unproblematisch, sie in die gegenwärtig unzureichende Grundfinanzierung der Hochschulen zu überführen.",
+      "SPD":"Inzwischen kommt jeder vierte Euro für die Universitäten und Hochschulen aus Drittmitteln. Dabei handelt es sich vermehrt um Gelder von Unternehmen oder Verbänden. Wir werden den finanziellen Druck, der zur Verwendung von Drittmitteln führt, reduzieren und Voraussetzungen für mehr Transparenz in der Wissenschaft schaffen. Landtag und Hochschulen sollen gemeinsame Regelungen zur Annahme und Anwendung von Drittmitteln erarbeiten. Forschungsziele sollen offengelegt, die Finanzierung der Projekte und die Verwertung ihrer Ergebnisse transparent gestaltet werden. Transparenz ist für die Unabhängigkeit von Lehre und Forschung an den staatlichen Hochschulen des Freistaates unverzichtbar."
+      }
+  },
+  {
+    "title": "Bemessung der Studienzuschüsse",
+    "question": "Sollen Studienzuschüsse künftig nach den dem jeweiligen Haushaltsjahr entsprechenden Studierendenzahlen bemessen werden?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":1,"FDP":0,"FW":0,"GRÜNE":1,"LINKE":1,"SPD":1},
+    "comments":
+      {
+      "CSU":"Die demografische Entwicklung wirkt sich tiefgreifend auf die Hochschullandschaft aus. Be-stimmend war hierbei jedoch im vergangenen Jahrzehnt der starke Anstieg der Zahl der Stu-dienanfängerinnen und -anfänger. Heute nehmen fast 60 Prozent eines Altersjahrgangs ein Hochschulstudium auf. Im Wintersemester 2017/18 ist die Zahl der Studierenden mit rund 389.200 auf ein neues Rekordniveau geklettert. Im Studienjahr 2017 fingen 77.100 Lernende mit dem Studium an. Bis mindestens 2025 ist von einer hohen Nachfrage nach akademischer Bildung auszugehen. Mit dem Ausbauprogramm seit 2008 hat Bayern weit über 50.000 zu-sätzliche Studienplätze geschaffen. Dafür wurden (auch mit Mitteln aus dem Hochschulpakt des Bundes) rund 4.200 Personalstellen mit einem jährlichen Finanzvolumen von weit über 300 Mio. Euro bereitgestellt. Eine Anpassung an die weitere Entwicklung der Studierendenzahlen bleibt den Verhandlun-gen zur Aufstellung der Doppelhaushalte vorbehalten. Bisher richtet sich die Finanzierung vor allem nach der Anzahl der Studienanfänger. Für die Zukunft sollte dabei aber auch die Studienerfolgsquote einer Hochschule von Relevanz sein.",
+      "FDP":"Besonders schnell wachsende Hochschulen kommen den nötigen Investitionen, besonders in die digitale Ausstattung, nicht hinterher. Dennoch muss Hochschulen eine gewisse Planungssicherheit gewährt werden.",
+      "FW":"Art. 5a Abs. 2 BayHSchG sieht zur Kompensation der weggefallenen Studiengebühren die Bereitstellung von Studienzuschüssen zur Verstärkung der Lehre vor. Die Mittelverteilung orientierte sich dabei in den vergangenen Haushaltsjahren an den im letzten Gebührenjahr eingenommenen Gebühren, so dass aktuelle Entwicklungen der Studierendenzahlen nicht berücksichtigt und Verzerrungen verstetigt wurden. Heute erhalten die einzelnen Hochschulen deshalb sehr unterschiedliche Beträge je Studierendem. Durch eine Änderung des Haushaltsvermerks, wie wir FREIE WÄHLER sie bereits in einem Antrag gefordert haben, sollte künftig sichergestellt werden, dass eine faire und transparente Mittelverteilung in Form einer einheitlichen Pauschale pro Studierendem erfolgt. Eine Gewichtung nach Studienrichtung soll, wie auch bei den Studiengebühren, unserer Ansicht nach nicht stattfinden. Die Kompensationsmittel sollen nicht dazu dienen, Ungleichheiten in der Grundfinanzierung der Hochschulen auszugleichen, sondern sollen die Lehre über das Kernangebot hinaus stärken.",
+      "GRÜNE":"Wir treten für eine auskömmliche Grundfinanzierung der Universitäten und Hochschulen in Bayern ein. Wir treten auch dafür ein, die Mittel, die den Hochschulen pro Studierende*m zur Verfügung stehen, zu erhöhen. Denn faktisch sind die Landesmittel, die pro Studierende*m aufgewendet werden jahrelang gesunken und stagnieren weiterhin. Insbesondere darf sich der Zuwendungsschlüssel auch nicht mehr rein nach der Zahl der Studienanfänger*innen bemessen, da dies Fehlanreize schafft. Den Weg hin zu einer reinen Subjektfinanzierung nach Studierendenzahlen anstatt einer Grundfinanzierung der Hochschulen sehen wir jedoch nicht als sinnvoll an.",
+      "LINKE":"Die Studierendenzahl muss ein wesentlicher, darf aber nicht der einzige Faktor sein. Es darf nicht darum gehen, nur die Quantität der Lehre, nicht aber ihre Qualität zu entlohnen.",
+      "SPD":"Die bayerischen Hochschulen brauchen dauerhaft mehr Planungssicherheit und mehr Grundmittel. Nur mit einer verlässlichen Finanzierung des Wissenschaftsbetriebes können unabhängige Forschung und gute Lehre garantiert werden. Mit dem Hochschulpakt des Bundes wird bereits ein Teil der Hochschulfinanzierung pro Studienplatz bemessen. Für eine langfristige Planbarkeit müssen die Grundmittel jedoch verlässlich sein."
+      }
+  },
+  {
+    "title": "Regionalisierung",
+    "question": "Soll die Regionalisierung der Hochschulen weiter vorangetrieben werden?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":0,"FDP":2,"FW":1,"GRÜNE":1,"LINKE":1,"SPD":0},
+    "comments":
+      {
+      "CSU":"Wir haben im Zuge der wissenschaftsgestützten Regionalentwicklung zahlreiche neue Außenstellen von HAWs und auch Technologietransferzentren in allen Regionen eröffnet. Dadurch haben wir das Netz von Studien-, Hochschul- und Wissenschaftsangeboten über ganz Bayern dichter gespannt. Die Hochschulangebote sind Innovations- und Zukunftsmotoren in den Regionen. (Innovationsbündnis Hochschule 4.0)",
+      "FDP":"Wir halten es für eine falsche Schwerpunktsetzung, wenn aus Prestigegründen zum Beispiel eine neue Universität in Nürnberg geschaffen werden soll, während Milliarden für die bestehenden bayerischen Hochschulen fehlen. Wir wollen deshalb ein Hochschulentwicklungsprogramm 2030 auf den Weg bringen. Dazu fordern wir eine Erhöhung des Landesanteils am Hochschulpakt und vom Bund eine dauerhafte Finanzierung aus diesem Programm. Vorhandene Hemmnisse der Kooperation von Bund und Ländern in der Hochschulfinanzierung müssen beseitigt werden. Die Globalbudgets der Hochschulen wollen wir entsprechend mit Investitionspauschalen stärken und besonders dringende Projekte auf Antrag anfangs mit Sonderfinanzierungen unterstützen.",
+      "FW":"Grundsätzlich sehen wir eine Regionalisierung der Hochschulen auch angesichts der Sicherstellung gleichwertiger Lebensverhältnisse in ganz Bayern als äußerst positiv. Jedoch darf die Regionalisierung im Hochschulbereich nicht allein der Regionalisierung wegen unternommen werden, sondern sollte im Einzelfall auf Sinnhaftigkeit und Nutzen für Studierende und Hochschulpersonal überprüft werden.",
+      "GRÜNE":"Die zweite Hochschul-Gründungswelle mit den neueren Landesuniversitäten in Augsburg, Bayreuth, Passau und Regensburg sowie der damaligen Fachhochschulen in den 70er bis 90er Jahren war eine Erfolgsgeschichte. Bayern hat seitdem eine in allen Bezirken flächendeckend ausgebaute Hochschullandschaft. Bei der aktuellen dritten Gründungswelle von teils sehr kleinen Außenstellen im Zuge der „wissenschaftsgestützten Strukturpolitik“ der Staatsregierung fehlt uns jedoch bisher ein klares Konzept in Bezug auf den wissenschaftspolitischen Mehrwert. Wir fordern eine umfassende Evaluation, die Aufstellung eines Kriterienkataloges und einer Strategie zur weiteren Ausdifferenzierung und Regionalisierung der Hochschullandschaft.",
+      "LINKE":"[Frage bedarf Erläuterung]",
+      "SPD":"Mit der Gründung von Hochschulen für angewandte Wissenschaften außerhalb der bayerischen Metropolen wurde ein erster Schritt zur Herstellung gleichwertiger Lebensverhältnisse sowie zur Sicherstellung einer flächendeckenden Versorgung geleistet. Andererseits erhöhen Hochschulen für angewandte Wissenschaften die Standortattraktivität ländlicher Räume gerade mit Blick auf junge Menschen und Familien enorm. Für angewandte Studiengänge, welche insbesondere keine teure Infrastruktur benötigen und daher nicht gezwungenermaßen geballt unterrichtet werden müssen, unterstützen wir daher die Ansiedlung im ländlichen Raum, wobei die Studierbarkeit an einem Einzelstandort zu jeder Zeit gewährleistet sein muss. Wir verstehen diese Maßnahme auch als Antwort auf die gestiegene Komplexität der Arbeit im Zeitalter der Digitalisierung und der damit verbundenen Notwendigkeit einer Bildungsoffensive in der Fläche."
+      }
+  },
+  {
+    "title": "Duale Studiengänge",
+    "question": "Soll die Anzahl der dualen Studiengänge vergrößert werden?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":1,"FDP":0,"FW":0,"GRÜNE":0,"LINKE":1,"SPD":0},
+    "comments":
+      {
+      "CSU":"Dies ist eine Frage, die die Hochschulen im Rahmen ihrer Hochschulautonomie zu entscheiden haben. Wir begrüßen aber den Ausbau von dualen Studiengängen. Spannend ist es in diesem Zusammenhang auch, sich nach einigen Jahren der Praxis im Rahmen eines berufsbegleitenden Masters weiter zu qualifizieren. Deshalb werden wir uns auch für den Ausbau berufsbegleitender Masterstudiengänge stark machen. Das duale Studium hat in jüngster Zeit sehr viel Aufmerksamkeit von Politik, Öffentlichkeit und Forschung erfahren. 2012 entschieden sich lediglich vier Prozent der Studienanfänger für diesen Weg. Zwischen 2004 und 2014 hat sich die Zahl der dualen Studienangebote nahezu verdreifacht und die Zahl der Studierenden mehr als verdoppelt. Auch das Interesse der Wirtschaft nimmt zu. So stieg in demselben Zeitraum die Zahl der Angebote von Unternehmensseite, sich als Praxispartner an einem dualen Studium zu beteiligen, ebenfalls. Diese Entwicklung passt zu Forschungsergebnissen, wonach in Zukunft hybride Bildungsformen, die den Spagat zwischen beruflicher und akademischer Bildung schaffen, an Bedeutung gewinnen. Dies vor allem vor dem Hintergrund, dass Prognosen den Absolventen weiterhin gute Arbeitsmarktchancen prophezeien. Hinzu kommt, dass das duale Studium made in Germany im internationalen Kontext großes Interesse weckt, weil praxisnahe Hochschulausbildungen im Ausland ebenfalls Konjunktur haben.",
+      "FDP":"In der Kooperation von Hochschulen und beruflicher Bildung sehen wir Freie Demokraten großes Potenzial. Wir fordern deshalb eine verstärkte Kooperation von Berufsschulen und Hochschulen für angewandte Wissenschaft. Dadurch sollen Synergien bei personellen Ressourcen und technischen Einrichtungen entstehen. Duale Studiengänge sollen weiter ausgebaut werden, die bayerischen Hochschulen sollen sich noch weiter für beruflich Qualifizierte öffnen. Im Beruf erworbene Qualifikationen wollen wir als Studienleistungen anerkennen. Das Angebot von berufsbegleitenden Studiengängen soll ausgebaut werden.",
+      "FW":"Die Verbindung von Studium und Berufserfahrung, wie sie im dualen Studium in besonderem Maß ermöglicht wird, gehört unserer Ansicht nach zu den zukunftsweisenden Konzepten im Hochschulbereich. Dem Ausbau der dualen Studiengänge stehen wir daher sehr positiv gegenüber.",
+      "GRÜNE":"Keine detaillierte Position.",
+      "LINKE":"Keine detaillierte Position.",
+      "SPD":"Wir wollen eine gesetzliche Grundlage für das Duale Studium schaffen, die\nRechtssicherheit für die Student*innen, Betriebe und Hochschulen schafft und diese Studiengänge dadurch stärken. Es müssen Mindestanforderungen hinsichtlich der systematischen Verzahnung der Lernorte sowie der erforderlichen Breite und Tiefe der zu vermittelnden Qualifikationen festgeschrieben werden. Dabei ist sicherzustellen, dass Studiengänge nicht zu spezifisch auf die Anforderungen des dualen Praxispartners und kurzfristige Arbeitsmarktanforderungen ausgerichtet werden und Wissenschaftlichkeit sowie Reflexivität gesichert sind."
+      }
+  },
+  {
+    "title": "Digitalisierung",
+    "question": "Werden Sie in der kommenden Legislaturperiode Maßnahmen zur Förderung der Digitalisierung an Hochschulen einleiten?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":0,"FDP":0,"FW":0,"GRÜNE":0,"LINKE":1,"SPD":0},
+    "comments":
+      {
+      "CSU":"Durch Mittel der Masterpläne Bayern Digital I und II sind schon in dieser Wahlperiode erhebliche Summen für die Digitalisierung an die Hochschulen geflossen, unter anderem für die Virtuelle Hochschule Bayern, in Anwendungszentren für Digitale Lehre und Forschung sowie in die digitale Ausstattung der HAWs, Digitalisierungsprofessuren, Professuren für Künstliche Intelligenz und die Zusammenarbeit mit ZDB.",
+      "FDP":"Wir Freie Demokraten fordern ein landesweites Förderprogramm für den Ausbau der digitalen Infrastruktur an bayerischen Hochschulen. Es soll finanzielle, personelle und fachliche Unterstützung umfassen und auch die Bibliotheken einschließen: Es ist im 21. Jahrhundert nicht mehr angemessen, dass die meisten digitalen Lehrmittel und sogar technische Ausstattungen aus Studienzuschüssen finanziert werden.",
+      "FW":"Wir FREIEN WÄHLER haben zur Förderung der Digitalisierung an Schulen und Hochschulen ein umfassendes Antragspaket in den Bayerischen Landtag eingereicht. Gerade an den Hochschulen bietet die Digitalisierung beste Voraussetzung für Flexibilisierung, Individualisierung und Internationalisierung von Lehre und Forschung. Um jedoch Potenziale und Chancen der Digitalisierung in vollem Umfang ausschöpfen zu können, bedarf es der Zusammenarbeit zwischen den bayerischen Hochschulen: Wir FREIE WÄHLER fordern daher die Einrichtung eines hochschulartübergreifenden Forums sowie eine umfassende Digitalisierungsstrategie, um digitale Lehr-, Lern- und Forschungsformate in allen Fachrichtungen zu verankern und weiterzuentwickeln. Hierfür muss ein Maßnahmenpaket aufgelegt werden. Dieses unter anderem soll sieben Millionen Euro für den Ausbau der IT-Infrastruktur als auch 200 neue Stellen, darunter 30 Professorenstellen, umfassen. Diese Forderungen werden wir auch in der kommenden Legislaturperiode weiter verfolgen.",
+      "GRÜNE":"Wir wollen einen zukunftsfähigen und umfassenden Breitbandausbau auf der Basis von Glasfaser. Das ist die Grundvoraussetzung dafür, dass auch bayerische Hochschulen für das digitale Zeitalter gewappnet sind. Das Thema Open Access sehen wir als Zukunftschance für die bayerische Wissenschaftslandschaft. OA bietet für Forscherinnen und Forscher die Möglichkeit zu kostenfreien und peer-reviewten Veröffentlichungen, für Bibliotheken die Chance, sich von der Abhängigkeit gegenüber den großen Wissenschaftsverlagen loszusagen, und für alle anderen die Gelegenheit,\nkostenfrei und von überall auf wissenschaftliche Forschungsergebnisse zuzugreifen. Wir fordern daher eine bayerische Open Access-Strategie und eine Open-Access-Zweitveröffentlichungspflicht nach dem Vorbild Baden-Württembergs. Darüber hinaus setzen wir uns aber insbesondere auch für die Erforschung der technischen, wirtschaftlichen und sozialen Folgen von Digitalisierung und Automatisierung ein.",
+      "LINKE":"Die Digitalisierung schafft große neue Möglichkeiten, und die Hochschulen müssen an dieser Entwicklung teilhaben. Wir sehen sie allerdings nicht als Allheilmittel, da sie den direkten Kontakt und Austausch zwischen forschenden lernenden und lehrenden Menschen nicht ersetzen kann oder soll.",
+      "SPD":"Wir werden die Digitalisierung der Hochschulen in Lehre, Forschung und Verwaltung, die Entwicklung beziehungsweise Weiterentwicklung von Digitalisierungsstrategien einschließlich der Finanzierung von Beratungsleistungen unterstützen. Dabei setzen wir im Bereich der Lehre auf „blended learning“ als hochschuldidaktisch leistungsfähiges Konzept, um mit einer heterogener werdenden Studierendenschaft umzugehen. In diesem Konzept ergänzt digitales Lernen die bisherigen Angebote, aber es ersetzt sie nicht. Dabei darf es nicht darum gehen, Arbeitsplätze einzusparen, sondern die Arbeit an den Hochschulen zu unterstützen. Parallel dazu müssen wir noch mehr dafür tun, dass sich neue Erkenntnisse rascher und leichter verbreiten, auch durch die Förderung von „open access“. Ein zentraler Baustein hierfür sind ein Forschungsdaten-Management und der freie Zugang zu wissenschaftlichen Publikationen über das Internet. In Hochschulpaktverhandlungen müssen der Aufbau und Betrieb digitaler Infrastruktur einen eigenen Rahmen erhalten ebenso wie eine gemeinsame Finanzierung für Angebote, die über den Rahmen einer Hochschule hinausgehen wie z. B. das Streaming von Vorlesungen."
+      }
+  },
+  {
+    "title": "Online-Wahlen",
+    "question": "Planen Sie in der kommenden Legislaturperiode die Einführung von Online-Wahlen an Hochschulen?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":1,"FDP":0,"FW":0,"GRÜNE":2,"LINKE":2,"SPD":0},
+    "comments":
+      {
+      "CSU":"Es werden derzeit die rechtlichen und tatsächlichen Voraussetzungen geprüft, um ein rechtssicheres Online-Verfahren für Wahlen an den Hochschulen einzuführen. Diese Prüfungen werden in der kommenden Wahlperiode fortgesetzt.",
+      "FDP":"Wir Freie Demokraten sehen in der Onlinewahl eine Möglichkeit die politische Partizipation an Hochschulen zu fördern. Besonders wichtig ist dabei die Wahl vor ungewollten Eingriffen von außen (z.B. Hackerangriffen) zu schützen.",
+      "FW":"Wir FREIE WÄHLER haben hierzu bereits zwei Anträge in den Bayerischen Landtag eingebacht (DRs. 17/21974, 17/ 15274). Die Einführung von Online-Hochschulwahlen sehen wir als dringend erforderlich, denn in den vergangenen Jahren haben sich gesellschaftliche und soziale Prozesse immer weiter in die digitale Welt verlagert. Partizipationsstrukturen als höchstes Gut der modernen Demokratie müssen mit dieser Entwicklung Schritt halten, um Menschen dort abholen zu können, wo sie einen nicht unwesentlichen Teil ihrer Zeit verbringen und miteinander agieren. Während viele Bundesländer daher bereits die rechtliche Grundlage für Online-Hochschulwahlen geschaffen haben, geht Bayern hier bis heute einen Sonderweg: So werden gemäß Art. 38 Abs. 1 Bayerisches Hochschulgesetz Wahlen durch eine Rechtsverordnung, die Wahlordnung für die staatlichen Hochschulen, geregelt, welche eine Wahl in elektronischer Form nicht zulässt. Neben der persönlichen Stimmabgabe ist derzeit nur die Möglichkeit der Briefwahl vorgesehen. Es ist unverständlich, warum die Durchführung von Wahlen als eine der wichtigsten Formen der Partizipation an den Hochschulen für nur in analoger Form zulässig sein soll. Die Ermöglichung von Online-Wahlen sollte als Chance begriffen werden, die demokratische Teilhabe sowie die Wahlbeteiligung der Studierenden zu befördern. Daneben ergeben sich für Online-Wahlverfahren an den Hochschulen weitere Vorteile, insbesondere die schnelle und genaue Auszählung, die Möglichkeit barrierefreier, geheimer Wahlen für Hochschulmitglieder mit Behinderung oder aber die auf längere Sicht erreichbare Reduzierung der mit den Wahlen verbundenen Kosten und des Verwaltungsaufwands.",
+      "GRÜNE":"Wir Grüne halten Onlinewahlen aus verfassungsmäßigen und technischen Gründen für problematisch. Es gibt kein denkbares Online-Verfahren, das gleichzeitig die allgemeinen Wahl („meine Stimme zählt – und zwar genau so viel wie jede andere Stimme auch, und ich kann das auch nachvollziehen“) und\ndie geheime Wahl („es ist nicht nachvollziehbar, wie ich persönlich abgestimmt habe“) gewährleistet. \nDas Bundesverfassungsgericht hält diese Kriterien für so genannte „politische Wahlen“ jedoch für eine gebotene Voraussetzung. Eine Abwertung der Hochschulwahlen zu „nichtpolitischen Wahlen“ vergleichbar der Wahl eines Vereinsvorstandes lehnen wir ab.  Empirische Nachweise für eine Erhöhung der Wahlbeteiligung durch Online-Wahlverfahren gibt es bislang keine.",
+      "LINKE":"Eher nicht, weil sich diese Technik immer wieder als manipulationsanfällig erweist.",
+      "SPD":"Keine detaillierte Position."
+      }
+  },
+  {
+    "title": "Bologna-Reform",
+    "question": "Sehen Sie den Anspruch der Bologna-Reform, die auf Basis der Anrechnung von Kompetenzen den leichteren Wechsel zwischen Studiengängen und Hochschulen vorsieht, in der bayerischen Hochschullandschaft als verwirklicht an?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":0,"FDP":2,"FW":2,"GRÜNE":2,"LINKE":2,"SPD":2},
+    "comments":
+      {
+      "CSU":"Nach dem jüngsten Bericht der Staatsministerin im Ausschuss wird ein Großteil der im Ausland erbrachten Leistungen anerkannt, damit ist ein wichtiger Bestandteil von Bologna verwirklicht, auch die Internationalisierung und der gegenseitige Austausch schreiten voran.",
+      "FDP":"Aufgrund der unterschiedlichen Ausrichtungen und Schwerpunkte der Studienordnungen der verschiedenen Studiengänge ist ein leichter Wechsel zwischen Studiengängen und Hochschulen nach wie vor kompliziert und bürokratisch.",
+      "FW":"Keine detaillierte Position.",
+      "GRÜNE":"18 Jahre nach Unterzeichnung der Bologna-Erklärung lässt eine europaweit\neinheitliche Umsetzung der gestuften Studienabschlüsse immer noch auf sich warten. Die Akzeptanz der durch die Bologna-Reform neu geschaffenen Bachelorabschlüsse variiert in der Wirtschaft stark, je nach Branche und Unternehmen. Eine fächereinheitliche Definition des ECTS-Schemas gibt es bis heute nicht, so dass gleiche Kompetenzen in unterschiedlichen <Fächern nur sehr schwer miteinander vergleichbar sind. \nWir wollen Probleme bei der ECTS-Anerkennung beseitigen und wir wollen Masterplätze für alle Bachelorabsolvent*innen schaffen.",
+      "LINKE":"Die Modularisierung wie auch die Einführung der Credit Points sind grundsätzlich zu kritisieren, haben aber kaum zu wachsender Mobilität zwischen Hochschulen oder Studiengängen beigetragen, nicht zuletzt weil sie durch die Zunahme spezialisierter Studiengänge konterkariert wurden. Bologna ist an seinen eigenen Zielen gemessen weitgehend gescheitert.",
+      "SPD":"Die Ziele von Bologna wurden in Bayern nicht mal annähernd erreicht. Dies verwundert kaum, wenn man sich vor Augen führt, dass den Hochschulen für diese Mammut-Reform kein Cent mehr zur Verfügung stand. Auf die meisten Universitäten in Bayern kamen Kosten in Millionenhöhe zu, die ihnen nicht von der Staatsregierung erstattet werden. Die eh schon unterfinanzierten Hochschulen haben somit noch weniger Mittel zur Verfügung, auf die Anforderungen der neuen Studiengänge zu reagieren. Diese sind weit betreuungsintensiver als Magister- oder Diplom-Studiengänge und verlangen eine Einführung neuer Lehrveranstaltungen. Ohne eine Aufstockung des Lehrpersonals sowie der Bereitstellung von zusätzlichen Räumen und Sachmitteln sind sie nicht studierbar. Die BayernSPD setzt sich dafür ein, den Hochschulen die finanziellen Mittel bereitzustellen, nach denen eine solch umfassende Reform verlangt. Weiterhin muss die Studierfähigkeit als entscheidendes Kriterium für die Akkreditierung von Studiengängen gelten. Um sie zu gewährleisten ist eine Verringerung der Prüfungsdichte sowie der Anzahl der Prüfungen notwendig. Um wirklich die Mobilität zu fördern sind Auslandsaufenthalte in die Konzeption von neuen Studiengängen zu integrieren sowie die Anrechnungsmöglichkeiten beim Hochschulwechsel zu verbessern. Der Übergang vom Bachelor- zu einem Masterstudiengang muss um weitere flexible Wege erleichtert werden. Von einer Quotierung von Masterstudienplätzen muss vollkommen abgesehen werden."
+      }
+  },
+  {
+    "title": "Akkreditierung",
+    "question": "Gibt es Bestimmungen der ländergemeinsamen Strukturvorgaben für die Akkreditierung von Bachelor- und Masterstudiengängen, die Sie konkret ändern möchten?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":2,"FDP":0,"FW":0,"GRÜNE":2,"LINKE":0,"SPD":0},
+    "comments":
+      {
+      "CSU":"Bayern ist Ende 2017 dem Akkreditierungsvertrag aller Bundesländer beigetreten, die Praxis muss erweisen, wie sich der neue Vertrag bewährt und welcher Reformbedarf besteht. Im Übrigen begrüßen wir die Umstellung auf die Systemakkreditierung, um unnötigen Verwaltungsaufwand und Kosten zu sparen.",
+      "FDP":"Hinsichtlich der bestehenden Bestimmungen kann überlegt werden, zur  Minderung  des  Prüfungsdrucks  der  Studierenden,  (wie an einigen Hochschulen üblich) nicht alle Prüfungsleistungen in die Durchschnittsnote eingehen zu lassen, sondern lediglich unter ''bestanden'' oder ''nicht bestanden'' einzutragen.",
+      "FW":"Keine detaillierte Position.",
+      "GRÜNE":"Prinzipiell enthalten die ländergemeinsamen Strukturvorgaben sinnvolle Regelungen, auf deren Anwendung und Einhaltung es ankommt. Uns liegt insbesondere eine stärkere Gewichtung der Kriterien unter Punkt A 7, insbesondere zur Studierbarkeit, am Herzen.",
+      "LINKE":"Wir lehnen die Akkreditierung über private Agenturen und solche, bei denen die Mitarbeiter*innen nicht beteiligt werden, ab.",
+      "SPD":"Wir wollen eine Ausweitung der  Förderung systemakkreditierter Hochschulen mit einem internen Qualitätsmanagementsystem."
+      }
+  },
+  {
+    "title": "Teilzeitstudiengänge",
+    "question": "Sollten alle Studiengänge auch in Teilzeit studierbar sein?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":1,"FDP":0,"FW":0,"GRÜNE":0,"LINKE":0,"SPD":0},
+    "comments":
+      {
+      "CSU":"In den vergangenen Jahren haben wir an unseren Hochschulen bundesweit das ehrgeizigste Ausbauprogramm erfolgreich umgesetzt. Nun unternehmen wir weitere Anstrengungen, um unsere bayerischen Universitäten, Kunst- und Musikhochschulen sowie Hochschulen für angewandte Wissenschaften im internationalen Wettbewerb zu stärken. Dazu gehören für uns mehr Teilzeitstudiengänge, berufsbegleitende und virtuelle Studienangebote, aber auch duale Studiengänge. In diesem Rahmen wollen wir auch die inklusive und familienfreundliche Hochschule weiterentwickeln.",
+      "FDP":"Die Option Studiengänge auch in Teilzeit studieren zu können, wird den modernen Lebens-, Familien- und Arbeitsmodellen gerecht. Somit macht ein Teilzeitstudium die Vereinbarkeit von Familie und Aus- bzw. Weiterbildung möglich.",
+      "FW":"Keine detaillierte Position.",
+      "GRÜNE":"Keine detaillierte Position.",
+      "LINKE":"Viele Menschen haben Kinder oder andere Angehörige zu versorgen, sind bereits berufstätig und müssen dies aufgrund der mangelhaften BAföG-Fördermöglichkeiten auch sein. Ohne Teilzeitstudienangebote werden diese Menschen derzeit von einem Studium komplett ausgeschlossen. Das wollen wir ändern.",
+      "SPD":"Immer mehr Studierende sind nicht in der Lage, ihr Studium wegen Berufstätigkeit, der Betreuung von Kindern oder der Pflege von Angehörigen als Vollzeitstudium zu organisieren."
+      }
+  },
+  {
+    "title": "IT-Kompetenzen in der Hochschullehre",
+    "question": "Sehen Sie die Notwendigkeit, den steigenden Anforderungen an IT-Kompetenzen in Arbeitswelt und Gesellschaft durch Maßnahmen in der Hochschullehre entgegenkommen zu müssen?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":0,"FDP":0,"FW":0,"GRÜNE":0,"LINKE":0,"SPD":0},
+    "comments":
+      {
+      "CSU":"Den Anforderungen der Digitalisierung stellen wir uns u.a. mit dem Masterplan I und II sowie Bayern Digital II. Sicherlich werden diese in der kommenden Wahlperiode fortgeschrieben.",
+      "FDP":"Wir Freie Demokraten verfolgen das Konzept des ''Lebenslangen Lernens''. Somit ist die digitale und IT-Kompetenz nicht auf die Schule oder außerschulisches Lernen beschränkt, sondern sollte in jedem Abschnitt des Lebens eine Rolle spielen. Viele Studienordnungen sehen aber bereits heute eine breite Auswahl an Zusatz- und Schlüsselkompetenzen vor.",
+      "FW":"Keine detaillierte Position.",
+      "GRÜNE":"Keine detaillierte Position.",
+      "LINKE":"Hochschulen, aber auch andere Bildungseinrichtungen und -träger sollten in den kommenden Jahren dabei unterstützt werden, Medienkompetenz zu vermitteln.",
+      "SPD":"Die Hochschulen sind verpflichtet, sich den Herausforderungen einer gesellschaftlichen Veränderung durch Digitalisierung zu stellen. Die Digitalisierung führt zu tiefgreifenden Veränderungen im Informations- und Entscheidungsverhalten des Einzelnen wie auch im menschlichen Miteinander.  Immer mehr Prozesse werden digital miteinander vernetzt. Die digitale Technologie prägt inzwischen die Art und Weise, wie Menschen ihre Meinungen bilden, wie sie entscheiden, wie sie miteinander in Kontakt treten und wie sie Informationen austauschen. Digitale Technologie macht Information überall sofort abrufbar. Dabei ist die Vertrauenswürdigkeit der verfügbaren Informationen in zunehmendem Maße schwer zu beurteilen. Auch führt die Nutzung digitaler Angebote zu Änderungen der menschlichen Lern- und Wahrnehmungsprozesse. Hochschulen müssen die Chancen wahrnehmen, bei all diesen Prozessen mitzugestalten. Nun muss das Thema Digitalisierung in Lehre, Weiterbildung und Forschung sichtbar werden und systematisch und vor allem interdisziplinär weiterentwickelt werden."
+      }
+  },
+  {
+    "title": "Qualität der Lehre",
+    "question": "Soll die Qualität der Lehre an Hochschulen durch Maßnahmen des Staatsministeriums für Wissenschaft und Kunst bzw. Beschlüssen des Bayerischen Landtags verbessert werden?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":1,"FDP":0,"FW":0,"GRÜNE":0,"LINKE":0,"SPD":0},
+    "comments":
+      {
+      "CSU":"Gute Lehre ist für Schulen wie Hochschulen zentral. Unsere Hochschulen werden durch die Innovationsbündnisse (aktuell Hochschule 4.0) entsprechend verpflichtet. Es liegt aber letztlich in der Freiheit jeder Hochschule, diesen Rahmen mit Leben zu füllen. Darüber hinaus gibt es auch verschiedene Wettbewerbe, die gute Lehre prämieren.",
+      "FDP":"Wir Freie Demokraten wollen den Universitäten und Hochschulen eine umfassende Handlungsfreiheit in allen wesentlichen Kompetenzbereichen geben, damit sie sich im internationalen Wettbewerb behaupten können. Aufgabe des Staates ist es in unserem Modell, Bildungsstandards zu setzen und diese im Rahmen einer Rechtsaufsicht und zur Qualitätssicherung zu kontrollieren.",
+      "FW":"Keine detaillierte Position.",
+      "GRÜNE":"Keine detaillierte Position.",
+      "LINKE":"Insbesondere ist eine verlässliche und ausreichende Grundfinanzierung nötig, und die Arbeitsbedingungen an den Hochschulen müssen verbessert werden.",
+      "SPD":"Zur verbesserten Qualität der Lehre trägt eine höhere Grundfinanzierung der Hochschulen bei. Entsprechende Haushaltsanträge hat die SPD-Landtagsfraktion bei allen Haushaltsberatungen gestellt. Nur mit langfristig garantierten verbesserten Mitteln werden die Hochschulen die neuen Herausforderungen wie Internationalität, Qualitätsentwicklung und modernes\nHochschulmanagement bewältigen können. Wir sehen uns in der Pflicht, unsere bayerischen Hochschulen mit langfristig garantierten, verbesserten Investitionen auszustatten. Mehr Sachmittel, Personal und die Verbesserung der Situation der Hochschulbibliotheken sind dringend notwendig. Auch die Verbesserung der Situation der wissenschaftlichen Mitarbeiterinnen und Mitarbeiter und der Lehrbeauftragten - weniger Zeitverträge und bessere Karriereperspektiven - trägt zur Qualität der Hochschulen bei."
+      }
+  },
+  {
+    "title": "Zulassungsbeschränkung von Studiengängen",
+    "question": "Sollen Ihrer Meinung nach vor dem Hintergrund weiterhin steigender Studierendenzahlen mehr Studiengänge zulassungsbeschränkt werden?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":1,"FDP":2,"FW":2,"GRÜNE":2,"LINKE":2,"SPD":2},
+    "comments":
+      {
+      "CSU":"Es ist noch nicht klar, wie lange die Studierendenzahlen angsteigen werden. Einerseits haben Zulassungsbeschränkungen einen positiven Einfluss auf den Studienerfolg, andererseits darf aber die Berufswahlfreiheit nicht ausgehöhlt werden.",
+      "FDP":"Wir Freie Demokraten wollen die Auswahlkriterien bei der Zulassung von Studierenden flexibler gestalten. Eine reine Auswahl über einen Numerus clausus (NC) wird den individuellen Fertigkeiten und Kenntnissen von Bewerbern nicht immer ausreichend gerecht. Jede Hochschule soll daher für all ihre Studiengänge eigene Eignungstests einführen können, die die erforderlichen Qualifikationen prüfen.",
+      "FW":"Keine detaillierte Position.",
+      "GRÜNE":"Wir Grüne möchten Zugangshürden für Studiengänge abbauen statt aufbauen. Gerade in Bereichen, in denen immer mehr Personal benötigt wird, wie in der Medizin, müssen wir stattdessen über eine Erweiterung der Kapazitäten nachdenken. Darüber hinaus fordern wir Masterplätze für alle Absolvent*innen von Bachelorstudiengängen.",
+      "LINKE":"Zulassungsbeschränkungen wirken hochgradig sozial selektiv. Auch Wartezeiten können häufig nur Menschen überbrücken, die über verlässliche Einkommensquellen verfügen. Die wachsenden Zahlen an Studieninteressierten sind politisch gewollt und gesellschaftlich wünschenswert. Daher müssen die Kapazitäten der Hochschulen bedarfsgerecht ausgebaut werden.",
+      "SPD":"Keine detaillierte Position."
+      }
+  },
+  {
+    "title": "Alternativen zum Numeruns Clausus (N.C.)",
+    "question": "Sollen im Falle von zulassungbeschränkten Studiengängen als Zulassungkriterium Alternativen zum Numerus Clausus (N.C.) etabliert werden?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":1,"FDP":0,"FW":0,"GRÜNE":0,"LINKE":0,"SPD":0},
+    "comments":
+      {
+      "CSU":"Nach dem Urteil des Bundesverfassungsgerichts vom Dezember vergangenen Jahres arbeitet die KMK neue Kriterien für die Zulassung zum Studium der Humanmedizin aus, die weitere Bezugspunkte als die Abiturnote einbeziehen. Diese Entwicklung wird sicherlich auch auf andere Fächer Auswirkungen haben. Wichtig ist für die Bewerber eine rechtssichere Lösung.",
+      "FDP":"Wir Freie Demokraten wollen die Auswahlkriterien bei der Zulassung von Studierenden flexibler gestalten. Eine reine Auswahl über einen Numerus clausus (NC) wird den individuellen Fertigkeiten und Kenntnissen von Bewerbern nicht immer ausreichend gerecht. Jede Hochschule soll daher für all ihre Studiengänge eigene Eignungstests einführen können, die die erforderlichen Qualifikationen prüfen.",
+      "FW":"Keine detaillierte Position.",
+      "GRÜNE":"Es sollten Alternativen zum rein notenbasierten Vergabeverfahren bei N. C.-beschränkten Studiengängen weiter ausgearbeitet werden. Viele Hochschulen in Bayern und im ganzen Bundesgebiet haben bspw. im Rahmen des Auswahlverfahrens der Hochschulen (AdH) sinnvolle Kriterienkataloge erarbeitet, die sich nicht rein auf die Abiturnote stützen. Mit einem einstimmig vom Bayerischen Landtag angenommenen Antrag (Landtags-Drs. 17/20333) haben wir Grüne gefordert, dass die Staatsregierung sich beim Medizinstudium für eine stärkere Berücksichtigung individueller Stärken einsetzt. Das bayerische Wissenschaftsministerium hat diesen Landtagsbeschluss bei den Verhandlungen auf Bundesebene leider ignoriert. Zum Glück konnten andere, grün-mitregierte Bundesländer hier ihren Einfluss geltend machen um eine sinnvolle neue Regelung auszuarbeiten.",
+      "LINKE":"Wir lehnen Zulassungsbeschränkungen grundsätzlich ab. Der N.C. ist aber die härteste und sozial blindeste Form solcher Beschränkungen und wurde ursprünglich auch nur als Notlösung für eine Übergangszeit rechtlich zugelassen.",
+      "SPD":"Der Numerus Clausus war zunächst als Übergangslösung gedacht, um die Situation der fehlenden Studienplätze zu überbrücken. Das erste Ziel der Hochschulpolitik muss heute sein, zusätzliche Studienplätze auszubauen, um damit  jungen Menschen attraktive Ausbildungsmöglichkeiten zu schaffen. Nach der Entscheidung des Bundesverfassungsgerichts  zum Auswahlverfahren beim Medizinstudium müssen neben dem Numerus Clausus weitere Kriterien bei der Studienplatzvergabe herangezogen werden. Das können die Anerkennung von praktischen Erfahrungen, Engagement oder die Gewichtung von belegten Fächern sein. Die Durchführung von Interviews ermöglicht den Hochschulen, die Eignung der Studienbewerber*innen im direkten Gespräch zu ermitteln.  Alle zusätzlichen Auswahlverfahren kosten die Hochschulen zusätzlich Geld und bedingen höheren Personaleinsatz. Damit dürfen die Hochschulen nicht allein gelassen werden."
+      }
+  },
+  {
+    "title": "Anwesenheitspflicht",
+    "question": "Sind Anwesenheitspflichten in Lehrveranstaltungen sinnvoll?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":1,"FDP":1,"FW":1,"GRÜNE":2,"LINKE":2,"SPD":2},
+    "comments":
+      {
+      "CSU":"Das ist eine Frage, die die Hochschulen im Rahmen ihrer Hochschulautonomie beantworten müssen. In Bayern darf eine Anwesenheitspflicht nur in Ausnahmefällen bestehen, zum Beispiel bei Angeboten, in denen eine Gruppe notwendig ist, damit der Kurs abgehalten werden kann, wie etwa beim Mannschaftssport oder im Orchester. Oder auch für Übungen im Labor. Diese Regelung halten wir für sinnvoll. Grundsätzlich stehen wir für die Eigenverantwortung der Studenten. Viele Lehrveranstaltungen sind zudem schon online abrufbar. Auch die Virtuelle Hochschule Bayern bietet eine zusätzliche Möglichkeit, sich zeitlich flexibel mit Studieninhalten zu beschäftigen. Daneben werden zur Vor- und Nachbereitung der Lehrinhalte schon an vielen Fakultäten geeignete Vorlesungen aufgezeichnet und online zur Verfügung gestellt. Ferner bietet die FAU eine Vielzahl von elektronischen Angeboten im Bereich des „distance learning“ und „blended learning“ (Medienportal, Uni-TV, StudOn, Universitätsbibliothek usw.), die eine der Lebenswirklichkeit der Studierenden entgegenkommende Studiengestaltung ermöglichen.",
+      "FDP":"Wir Freie Demokraten sind der Meinung, dass die Anwesenheit in Lehrveranstaltungen den akademischen Diskurs grundsätzlich unterstützen kann. Eine Qualitätsoffensive in der bayerischen Hochschullandschaft kann darüber hinaus zu einer vermehrten freiwilligen Anwesenheit beitragen.",
+      "FW":"Keine detaillierte Position.",
+      "GRÜNE":"Es mag einzelne Lehrveranstaltungsformate wie Praktika geben, bei denen eine persönliche Anwesenheit sinnvoll ist. Eine allgemeine Anwesenheitspflicht ist allerdings nicht sinnvoll und rechtlich auch nicht geboten.",
+      "LINKE":"Wie viele Hochschullehrende auch sehen wir Anwesenheitspflichten als überflüssig und ungerecht an. Gerade Studierende, die einer Erwerbstätigkeit nachgehen oder z.B. Kinder zu betreuen haben, werden hierdurch bestraft. Die meisten der heutigen Professor*innen hat ohne Anwesenheitspflichten gelernt und trotzdem eine ausreichende Qualifikation erworben.",
+      "SPD":"Wir sind überzeugt, dass Studierende selbst entscheiden können sollen, wie sie ihren Lernprozess gestalten."
+      }
+  },
+  {
+    "title": "Verwirklichung der UN-Behindertenrechtskonvention",
+    "question": "Sehen Sie Erfordernisse / Anforderungen der UN-Behindertenrechtskonvention in den bayerischen Hochschulen als ausreichend verwirklicht?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":1,"FDP":2,"FW":2,"GRÜNE":2,"LINKE":2,"SPD":2},
+    "comments":
+      {
+      "CSU":"Insgesamt befinden sich die staatlichen Hochschulen bei der Umsetzung des Konzepts zur inklusiven Hochschule auf einem guten Weg. An allen Hochschulen ist ein umfassendes Bewusstsein für die Bedürfnisse von Studierenden mit Behinderung und chronischer Erkrankung festzustellen. Dabei passen die Hochschulen ihre Maßnahmen zur Unterstützung von Studierenden mit Behinderung und chronischer Erkrankung an ihren individuellen, hochschuleigenen Bedarf an. Dieser hängt beispielsweise von der Anzahl der betroffenen Studierenden ab und kann somit sehr unterschiedlich ausfallen. Beauftragte für Studierende mit Behinderung wurden bestellt und die besonderen Belange von Menschen mit Behinderung werden im Rahmen des Studiums in angemessener Weise berücksichtigt. Prüfungsordnungen der Hochschulen müssen die Chancengleichheit aller Studierenden sicherstellen. Dementsprechend sehen fast alle Prüfungsordnungen Nachteilsausgleiche vor, wie z.B. den Einsatz von Gebärdensprachdolmetschern, die Verlängerung der Prüfungszeit, die Bereitstellung von Schreibhilfen oder die Gestattung der Ablegung der Prüfung in einer anderen Art. Weiterhin werden wir das Thema eng begleiten und auf notwendige Anpassungen und Weiterentwicklungen reagieren. Eine gute Beratung und Begleitung der Betroffenen ist unerlässlich.",
+      "FDP":"Wir sehen vor allem im Bereichen der Barrierefreiheit Nachholbedarf. Es ist uns besonders wichtig, dass Menschen mit Behinderung und chronischen Krankheiten ohne Einschränkung am schulischen und hochschulischen Leben teilnehmen können.",
+      "FW":"Keine detaillierte Position.",
+      "GRÜNE":"Wir wollen die Hürden in Studium und Forschung für Menschen mit Behinderung abbauen. Deshalb setzen wir uns bei Neubauten und Sanierungen für höchste bauliche Standards zur Unterstützung der Inklusion ein. Etliche Maßnahmen des von der Staatsregierung 2012 beschlossenen „Konzepts zur inklusiven Hochschule“ wurden von den Hochschulen noch nicht umgesetzt. Vor allem bauliche und technische Maßnahmen zur Herstellung von Barrierefreiheit\nebenso wie ein flächendeckend barrierefreier Zugang zum digitalen Informations- und Serviceangebot der Hochschulen müssen noch stärker umgesetzt werden.  Dafür wollen wir GRÜNE mehr finanzielle Mittel zur Verfügung stellen. Aber auch bei konkreten Unterstützungsmöglichkeiten für behinderte Studierende in den Bereichen Hochschulzulassung, Nachteilsausgleich, Berufsberatung oder Studiengestaltung und Studienprüfungen gibt es noch großen Verbesserungsbedarf. Außerdem wollen wir die Mitsprache und den Einfluss der Behindertenbeauftragten an den Hochschulen stärken. Sie sollen stimmberechtigt in den Entscheidungsgremien\nvertreten sein und ihre Anregungen und Initiativen verpflichtend in den Gremiensitzungen beraten werden.",
+      "LINKE":"Zur Unterstützung Studierender mit Behinderungen sind nicht nur weitere technische oder bauliche Maßnahmen zu ergreifen, sondern auch Beratungsangebote und weitere Aspekte der sozialen Infrastruktur müssen ausgebaut werden.",
+      "SPD":"Studierende mit Behinderung oder chronischen Erkrankungen haben immer noch mit Hürden während ihres Studiums zu kämpfen. Inklusion ist als großes Projekt der Staatsregierung angekündigt worden. Passiert ist bislang viel zu wenig. Sie SPD-Landtagsfraktion brachte konkrete Vorschläge im Landtag ein, wie die Situation an den Hochschulen verbessert werden kann: ein Programm zur Schaffung geeigneter Wohnheimplätze; die Erweiterung der Kompetenzen und Mitspracherechte der Beauftragten für Studierende mit Behinderung und chronischer Erkrankung an den Hochschulen; Initiierung zentraler Beratungsstellen."
+      }
+  },
+  {
+    "title": "Förderung der Inklusion",
+    "question": "Ist es notwendig, die Inklusion von Studierenden mit Migrationshintergrund an Hochschulen weiter zu fördern?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":0,"FDP":0,"FW":0,"GRÜNE":0,"LINKE":0,"SPD":0},
+    "comments":
+      {
+      "CSU":"Die Hochschulen stellen sich diesen Herausforderungen in Bayern auf ganz unterschiedliche Weise. Der Landtag lässt sich hier regelmäßig berichten und begleitet die Maßnahmen.",
+      "FDP":"Wir Freie Demokraten stehen für eine inklusive Gesellschaft, die es Personen mit Migrationshintergrund möglich machen soll an einer bayerischen Hochschule zu studieren und gefördert zu werden. Besonderes Augenmerk legen wir dabei auf die Sprachkompetenz.",
+      "FW":"Keine detaillierte Position.",
+      "GRÜNE":"Keine detaillierte Position.",
+      "LINKE":"Bildung ist ein wichtiger Beitrag zur gesellschaftlichen Integration. Daher ist es im Interesse aller Beteiligten, migrationsbedingte Nachteile auszugleiche.",
+      "SPD":"Die BayernSPD wird sich dafür einsetzen, daß für ausländische Studierende keine zusätzlichen Hürden aufgebaut werden und Studierende mit Migrationshintergrund gezielt gefördert werden. Wir werden die Hochschulen dabei unterstützen, geflüchteten Studierenden und Akademiker*innen möglichst schnell angemessene Angebote zur Förderung der Integration in den regulären Wissenschaftsbetrieb zu unterbreiten."
+      }
+  },
+  {
+    "title": "Psychologische Betreuung für Studierende",
+    "question": "Soll das Angebot an psychologischer Betreuung für Studierende, das durch die Hochschulen bzw. Studentenwerke bereitgestellt wird, ausgebaut werden?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":1,"FDP":0,"FW":0,"GRÜNE":0,"LINKE":0,"SPD":0},
+    "comments":
+      {
+      "CSU":"Wir haben an den Hochschulen und durch die Studentenwerke gute Beratungsdienste. Wir sehen aber zugleich, dass der Bedarf an sozialer und speziell psychologischer Beratung an den staatlichen Hochschulen in den vergangenen Jahren stetig gestiegen ist. Deshalb müssen wir bestehende Angebote ausbauen.",
+      "FDP":"Mehrere Studien haben bereits die Folgen des psychischen Drucks während der Ausbildung bewiesen. Weiter befinden sich junge Menschen in einer Phase des Wandels und der Entfaltung. Professionelle Unterstützung in schwierigen Situationen kann dabei helfen. Zudem wird die Anzahl an Beratungsstellen schon heute nicht der immer steigenden Anzahl der Studierenden gerecht.",
+      "FW":"Keine detaillierte Position.",
+      "GRÜNE":"Keine detaillierte Position.",
+      "LINKE":"Stress ist ein wachsendes Problem unter Studierenden, das grundsätzlich durch Verbesserungen der Studienbedingungen angegangen werden sollte. Bis Lösungen umgesetzt sind, brauchen wir ausreichende Beratungs- und Unterstützungsangebote.",
+      "SPD":"Der Bedarf nach Beratung ist nach Aussagen der Verantwortlichen der Studentenwerke in den letzten Jahren massiv angewachsen. Viele Studierende stehen aufgrund der Bachelor-Studiengänge, bei denen ein großes Lernpensum in kurzer Zeit absolviert werden muss, enorm unter Stress. Burn-out, Angststörungen und Depressionen sind die Folge. 25 bis 30 Prozent der Studierenden nehmen bereits psychologische Beratungen in Anspruch oder sind gefährdet. Bei den immer jünger werdenden Studierenden ist eine Beratung und Unterstützung bei der Selbstorganisation des Studiums notwendig. Einen hohen Beratungsbedarf in allen Bereichen stellen die Studentenwerke auch bei ausländischen Studierenden fest. Psychologische und soziale Beratungsangebote der Studentenwerke unterstützen Studierende dabei, Herausforderungen ihrer Lebens- und Studiensituation zu bewältigen und tragen damit zu einem chancengleichen Studium bei. Die Angebote sind eine niedrigschwellige Unterstützung,\ngeben Orientierungs- und Entscheidungshilfen in persönlichen und sozialen Anliegen und fördern die Eigenständigkeit der Studierenden, ihre Fähigkeiten, Probleme zu bewältigen und auch in Krisensituationen ein Studium fortzuführen."
+      }
+  },
+  {
+    "title": "Geschlechterquotierung für den Lehrkörper bzw. für AmtsträgerInnen",
+    "question": "Soll für den Lehrkörper bzw. für AmtsträgerInnen der Hochschule eine Geschlechterquotierung eingeführt werden?",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"CSU":2,"FDP":2,"FW":2,"GRÜNE":0,"LINKE":0,"SPD":0},
+    "comments":
+      {
+      "CSU":"Die Hochschulen fördern bei der Wahrnehmung ihrer Aufgaben die tatsächliche Durchsetzung der Gleichberechtigung von Frauen und Männern und berücksichtigen diese als Leitprinzip. Dazu sind sie im Lichte der Verfassung nicht zuletzt durch das Innovationsbündnis verpflichtet. Zur Durchsetzung der Gleichberechtigung von Frauen und Männern werden Frauen unter Beachtung des Vorrangs von Eignung, Befähigung und fachlicher Leistung gefördert. Ziel der Förderung ist eine Steigerung des Anteils der Frauen auf allen Ebenen der Wissenschaft, vgl. Art. 4 Abs. 1 Bayerisches Hochschulgesetz. Hier sind schon messbare Erfolge erzielt worden, die im Gleichstellungsbericht der Staatsregierung nachzulesen sind.",
+      "FDP":"Wir Freie Demokraten setzen uns entschieden gegen jede Art von Diskriminierung und für die Gleichberechtigung unabhängig von sexueller Orientierung und Geschlecht ein. Wir sind aber der Meinung, dass Quoten nicht der richtige Weg sind, um Schlüsselpositionen zu besetzen. Hier sollte stets die Qualität und individuelle Kompetenz entscheidend sein. Berufungskommissionen sind bereits jetzt in der Regel 50:50 belegt.",
+      "FW":"Keine detaillierte Position.",
+      "GRÜNE":"Wir wollen gendersensible Berufungsverfahren und ein Kaskadenmodell zur Gleichstellung an den Hochschulen. In diesem Modell ergeben sich die Ziele für den Frauenanteil einer jeden wissenschaftlichen Karrierestufe durch den Anteil der Frauen auf der direkt darunterliegenden Qualifizierungsstufe. Die Quoten werden dabei fächerabhängig festgelegt. Langfristig heißt das für uns: die Hälfte der Lehrstühle den Frauen! Außerdem fordern wir die Gleichstellung von Frauen in den Hochschulgremien – vor allem in den Hochschulräten. Die Frauenbeauftragten sollen mit Stimmrecht an den Sitzungen der Hochschulleitungen beteiligt werden.",
+      "LINKE":"Gerade unter den Professor*innen sind Frauen in Deutschland drastisch in der Minderheit und werden trotz gleichwertiger und oft höherer Qualifikation bei der Vergabe von Jobs benachteiligt. Quoten wären ein Beitrag zur Lösung dieses Problems.",
+      "SPD":"Hoch qualifizierte Wissenschaftlerinnen gehen dem Wissenschaftsbetrieb durch mangelnde Frauenförderung verloren. Wir werden Verbindlichkeit und Nachhaltigkeit gleichstellungspolitischer Maßnahmen umsetzen und eine Quotenregelung einführen. Beschäftigungsbedingungen und Karrieremodelle müssen stärker als bisher auf die Vereinbarkeit von Familie und Beruf ausgerichtet werden."
+      }
+  }
+]
